@@ -1,10 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import coursesData from "../../../data/courses.json";
 
-export async function GET(
-  request: NextRequest,
-  context: { params?: { course: string } }
-) {
+export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const program = searchParams.get("program");
   const level = searchParams.get("level");
