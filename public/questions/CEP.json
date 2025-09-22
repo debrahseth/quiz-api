@@ -1,0 +1,200 @@
+[
+    {
+        "question": "The first law of thermodynamics states that energy cannot be created or destroyed, only transformed.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In chemical engineering, the principle of mass balance involves accounting for the mass entering and leaving a system.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The second law of thermodynamics states that the total entropy of an isolated system always decreases over time.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The Arrhenius equation describes the relationship between the rate constant and temperature in chemical reactions.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In fluid mechanics, Bernoulli's equation applies to steady, incompressible flow along a streamline.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a general purpose equation used to describe fluid flow in pipes?",
+        "type": "multiple-choice",
+        "options": [
+            "Darcy-Weisbach equation",
+            "Navier-Stokes equation",
+            "Fick's law",
+            "Continuity equation"
+        ],
+        "answer": "Darcy-Weisbach equation"
+    },
+    {
+        "question": "Which of the following is a dimensionless number used to describe the relative importance of convective to conductive heat transfer?",
+        "type": "multiple-choice",
+        "options": [
+            "Reynolds number",
+            "Prandtl number",
+            "Peclet number",
+            "Nusselt number"
+        ],
+        "answer": "Peclet number"
+    },
+    {
+        "question": "What is the primary objective of a chemical process flow diagram (PFD)?",
+        "type": "multiple-choice",
+        "options": [
+            "To calculate the mass balance for each unit operation",
+            "To show the layout of the equipment in a process",
+            "To provide details about the piping design",
+            "To visualize the flow of materials through a process"
+        ],
+        "answer": "To visualize the flow of materials through a process"
+    },
+    {
+        "question": "Which of the following is an important factor in the design of a heat exchanger?",
+        "type": "multiple-choice",
+        "options": [
+            "Thermal conductivity",
+            "Flow arrangement (countercurrent or parallel flow)",
+            "Surface area for heat transfer",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In chemical reaction engineering, the rate of a chemical reaction depends on temperature and concentration. Which law describes this dependency?",
+        "type": "multiple-choice",
+        "options": [
+            "Le Chatelier's Principle",
+            "Arrhenius equation",
+            "Hess's Law",
+            "Raoult’s Law"
+        ],
+        "answer": "Arrhenius equation"
+    },
+    {
+        "question": "The concept of partial pressure is important when dealing with gases. It refers to the pressure that each gas in a mixture would exert if it occupied the entire volume alone.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The reaction rate constant (k) decreases with increasing temperature.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In a continuous stirred-tank reactor (CSTR), the residence time is the time that a fluid element spends in the reactor.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In chemical engineering, the ideal gas law is commonly used to describe the behavior of gases under varying temperature and pressure conditions.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the purpose of a distillation column in a chemical process?",
+        "type": "multiple-choice",
+        "options": [
+            "To separate components based on differences in boiling points",
+            "To separate liquids by fractional distillation",
+            "To purify mixtures",
+            "To increase pressure"
+        ],
+        "answer": "To separate components based on differences in boiling points"
+    },
+    {
+        "question": "In fluid mechanics, the Reynolds number helps to predict whether a flow will be laminar or turbulent.",
+        "type": "multiple-choice",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "In heat transfer, the Nusselt number relates convective heat transfer to conductive heat transfer.",
+        "type": "multiple-choice",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "What is the process used to separate components in a mixture based on differences in their solubility in a solvent?",
+        "type": "multiple-choice",
+        "options": [
+            "Liquid-liquid extraction",
+            "Solvent extraction",
+            "Phase separation",
+            "Fractional distillation"
+        ],
+        "answer": "Liquid-liquid extraction"
+    },
+    {
+        "question": "In chemical engineering, the ideal gas law is a useful approximation under conditions of low pressure and high temperature.",
+        "type": "multiple-choice",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "The overall efficiency of a chemical process can be measured by calculating the yield, which is the ratio of actual product to theoretical product.",
+        "type": "multiple-choice",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "In a chemical process, the term 'conversion' refers to the fraction of reactant that has been transformed into product.",
+        "type": "multiple-choice",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "In a continuous process, the material balance involves accounting for inputs, outputs, and accumulation of mass in a system.",
+        "type": "multiple-choice",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "The following is a dimensionless number used to predict the type of flow (laminar or turbulent) in fluid dynamics:",
+        "type": "multiple-choice",
+        "options": [
+            "Reynolds number",
+            "Mach number",
+            "Froude number",
+            "Prandtl number"
+        ],
+        "answer": "Reynolds number"
+    },
+    {
+        "question": "The law that describes the effect of temperature on the rate constant of a reaction is:",
+        "type": "multiple-choice",
+        "options": [
+            "Van't Hoff equation",
+            "Arrhenius equation",
+            "Le Chatelier's principle",
+            "Dalton’s law"
+        ],
+        "answer": "Arrhenius equation"
+    }
+]

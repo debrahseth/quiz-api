@@ -1,0 +1,142 @@
+[
+    {
+        "question": "In a fluidized bed, solid particles are suspended in an upward-flowing gas or liquid.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a fluidized bed, the behavior of particles is similar to that of a boiling liquid.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The primary advantage of a fluidized bed is its ability to provide excellent heat and mass transfer.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Particle size distribution in a fluidized bed is important for the bed's stability and performance.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a fluidized bed, the fluidization velocity is always constant for all particle sizes.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following factors influence the fluidization behavior of particles in a fluidized bed?",
+        "type": "multiple-choice",
+        "options": [
+            "Particle size",
+            "Particle density",
+            "Gas velocity",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the term used for the velocity at which particles in a fluidized bed just begin to be lifted?",
+        "type": "multiple-choice",
+        "options": [
+            "Terminal velocity",
+            "Minimum fluidization velocity",
+            "Velocity slip",
+            "Critical velocity"
+        ],
+        "answer": "Minimum fluidization velocity"
+    },
+    {
+        "question": "In a fluidized bed, what happens when the gas velocity exceeds the minimum fluidization velocity?",
+        "type": "multiple-choice",
+        "options": [
+            "The bed becomes fully fluidized",
+            "The bed becomes agitated",
+            "The particles are carried out of the bed",
+            "The bed becomes fixed and stable"
+        ],
+        "answer": "The bed becomes fully fluidized"
+    },
+    {
+        "question": "Which of the following is NOT a typical application of fluidized bed technology?",
+        "type": "multiple-choice",
+        "options": [
+            "Catalytic cracking",
+            "Gas-solid reactions",
+            "Suspended bed combustion",
+            "Liquid-solid extraction"
+        ],
+        "answer": "Liquid-solid extraction"
+    },
+    {
+        "question": "What is the main challenge when scaling up fluidized bed reactors?",
+        "type": "multiple-choice",
+        "options": [
+            "Maintaining uniform fluidization",
+            "Controlling the temperature",
+            "Minimizing pressure drop",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In particle technology, what is the main property of a particle that influences its behavior in a fluidized bed?",
+        "type": "fill-in",
+        "answer": "Particle size"
+    },
+    {
+        "question": "The pressure drop across a fluidized bed depends on the properties of the fluid and particles. What is the main equation used to describe this pressure drop?",
+        "type": "fill-in",
+        "answer": "Ergun equation"
+    },
+    {
+        "question": "What is the term for the state where the particles in a fluidized bed are no longer able to move freely due to excessive particle-particle interactions?",
+        "type": "fill-in",
+        "answer": "Particle agglomeration"
+    },
+    {
+        "question": "In a fluidized bed, what is the effect of increasing the particle size on the minimum fluidization velocity?",
+        "type": "fill-in",
+        "answer": "It increases the minimum fluidization velocity"
+    },
+    {
+        "question": "In particle technology, what is the process of breaking large particles into smaller ones called?",
+        "type": "fill-in",
+        "answer": "Comminution"
+    },
+    {
+        "question": "What is the purpose of using a fluidized bed in catalytic cracking processes?",
+        "type": "fill-in",
+        "answer": "To enhance heat and mass transfer"
+    },
+    {
+        "question": "In a fluidized bed, the drag force on a particle is proportional to the square of what factor?",
+        "type": "fill-in",
+        "answer": "Particle velocity"
+    },
+    {
+        "question": "What is the term for the fluidized bed condition where the bed behaves like a boiling liquid?",
+        "type": "fill-in",
+        "answer": "Fluidization"
+    },
+    {
+        "question": "What is a common problem in fluidized bed reactors when particles become too fine or too large?",
+        "type": "fill-in",
+        "answer": "Poor fluidization"
+    },
+    {
+        "question": "In a fluidized bed, increasing the gas velocity beyond the fluidization point can lead to what condition?",
+        "type": "fill-in",
+        "answer": "Particle entrainment"
+    },
+    {
+        "question": "What is a common use of fluidized bed reactors in the pharmaceutical industry?",
+        "type": "fill-in",
+        "answer": "Granulation"
+    },
+    {
+        "question": "In a fluidized bed reactor, what is used to control the gas flow and ensure proper fluidization?",
+        "type": "fill-in",
+        "answer": "Distributor"
+    }
+]

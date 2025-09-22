@@ -1,0 +1,196 @@
+[
+    {
+        "question": "Which of the following is the primary mode of heat transfer in a solid?",
+        "type": "multiple-choice",
+        "options": [
+            "Conduction",
+            "Convection",
+            "Radiation",
+            "Diffusion"
+        ],
+        "answer": "Conduction"
+    },
+    {
+        "question": "In which of the following situations does heat transfer primarily occur via convection?",
+        "type": "multiple-choice",
+        "options": [
+            "Heat transfer through a metal rod",
+            "Heat transfer through the atmosphere",
+            "Heat transfer from the sun to the Earth",
+            "Heat transfer through a vacuum"
+        ],
+        "answer": "Heat transfer through the atmosphere"
+    },
+    {
+        "question": "What is Fourier's law of heat conduction used to describe?",
+        "type": "fill-in",
+        "answer": "Heat transfer due to temperature gradient"
+    },
+    {
+        "question": "Which of the following is the unit of thermal conductivity in the SI system?",
+        "type": "multiple-choice",
+        "options": [
+            "W·m/K",
+            "J·s/K",
+            "W/m²·K",
+            "J/m·K"
+        ],
+        "answer": "W·m/K"
+    },
+    {
+        "question": "What does the Nusselt number (Nu) represent in heat transfer?",
+        "type": "fill-in",
+        "answer": "Convective to conductive heat transfer ratio"
+    },
+    {
+        "question": "Which of the following is an example of heat transfer by radiation?",
+        "type": "multiple-choice",
+        "options": [
+            "Heat from the sun warming the Earth's surface",
+            "Heat transfer through a metal rod",
+            "Heat transfer in a boiling pot of water",
+            "Heat from a fan blowing air"
+        ],
+        "answer": "Heat from the sun warming the Earth's surface"
+    },
+    {
+        "question": "Which of the following factors primarily affects the rate of heat transfer by conduction?",
+        "type": "multiple-choice",
+        "options": [
+            "Temperature gradient",
+            "Fluid velocity",
+            "Thermal conductivity",
+            "Surface area"
+        ],
+        "answer": "Thermal conductivity"
+    },
+    {
+        "question": "In forced convection, what factor plays a key role in the heat transfer rate?",
+        "type": "multiple-choice",
+        "options": [
+            "Fluid velocity",
+            "Temperature difference",
+            "Surface roughness",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the Stefan-Boltzmann law used to calculate in heat transfer?",
+        "type": "fill-in",
+        "answer": "Energy radiated by a black body"
+    },
+    {
+        "question": "Which of the following is the dimensionless group used in heat transfer to characterize the relative importance of thermal diffusion to convection?",
+        "type": "multiple-choice",
+        "options": [
+            "Prandtl number",
+            "Reynolds number",
+            "Nusselt number",
+            "Péclet number"
+        ],
+        "answer": "Péclet number"
+    },
+    {
+        "question": "What does the term 'thermal boundary layer' refer to in heat transfer?",
+        "type": "fill-in",
+        "answer": "Temperature change region near a surface"
+    },
+    {
+        "question": "In the context of heat transfer, what does the term 'overall heat transfer coefficient' represent?",
+        "type": "fill-in",
+        "answer": "Resistance to heat transfer"
+    },
+    {
+        "question": "Which of the following best describes heat transfer by convection?",
+        "type": "multiple-choice",
+        "options": [
+            "Heat transfer via direct contact of molecules",
+            "Heat transfer due to the bulk movement of fluid",
+            "Heat transfer via electromagnetic waves",
+            "Heat transfer from a hot object to a cold one in a vacuum"
+        ],
+        "answer": "Heat transfer due to the bulk movement of fluid"
+    },
+    {
+        "question": "Which of the following is not a factor that affects the rate of heat transfer by radiation?",
+        "type": "multiple-choice",
+        "options": [
+            "Temperature of the emitting surface",
+            "Emissivity of the surface",
+            "Distance between the surfaces",
+            "Fluid velocity"
+        ],
+        "answer": "Fluid velocity"
+    },
+    {
+        "question": "What is the main difference between steady-state and transient heat transfer?",
+        "type": "fill-in",
+        "answer": "Steady-state: constant temperature, transient: changing temperature"
+    },
+    {
+        "question": "Which of the following equations describes heat transfer through a flat wall?",
+        "type": "multiple-choice",
+        "options": [
+            "Fourier's law",
+            "Newton's law of cooling",
+            "Stefan-Boltzmann law",
+            "Dulong-Petit law"
+        ],
+        "answer": "Fourier's law"
+    },
+    {
+        "question": "Which of the following is true about heat transfer in a vacuum?",
+        "type": "multiple-choice",
+        "options": [
+            "Heat transfer occurs by conduction",
+            "Heat transfer occurs by convection",
+            "Heat transfer occurs by radiation",
+            "No heat transfer occurs"
+        ],
+        "answer": "Heat transfer occurs by radiation"
+    },
+    {
+        "question": "What is the primary cause of heat transfer in a heat exchanger?",
+        "type": "multiple-choice",
+        "options": [
+            "Convection",
+            "Conduction",
+            "Radiation",
+            "Both convection and conduction"
+        ],
+        "answer": "Both convection and conduction"
+    },
+    {
+        "question": "What does the term 'thermal resistance' refer to in heat transfer?",
+        "type": "fill-in",
+        "answer": "Opposition to heat flow"
+    },
+    {
+        "question": "What is the Péclet number in heat transfer related to?",
+        "type": "fill-in",
+        "answer": "Convective to diffusive heat transfer ratio"
+    },
+    {
+        "question": "In a heat exchanger, what is the effect of increasing the heat transfer surface area?",
+        "type": "multiple-choice",
+        "options": [
+            "Decreases the heat transfer rate",
+            "Increases the heat transfer rate",
+            "No effect on the heat transfer rate",
+            "Increases the temperature difference"
+        ],
+        "answer": "Increases the heat transfer rate"
+    },
+    {
+        "question": "In natural convection, heat transfer is primarily driven by which phenomenon?",
+        "type": "multiple-choice",
+        "options": [
+            "Density differences due to temperature gradients",
+            "Molecular motion of the fluid",
+            "External fluid motion",
+            "Pressure differences"
+        ],
+        "answer": "Density differences due to temperature gradients"
+    }
+]

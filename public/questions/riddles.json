@@ -1,0 +1,332 @@
+[
+    {
+        "clues": [
+            "I am a fundamental process in which a substance undergoes a phase change without altering its chemical structure.",
+            "I can occur when heat is applied to a mixture of compounds with different boiling points.",
+            "I separate components based on their volatility and interaction with a stationary phase.",
+            "I often take place in a tall vertical column with trays or packing.",
+            "Who am I??"
+        ],
+        "answer": "distillation"
+    },
+    {
+        "clues": [
+            "I involve the rearrangement of atoms within a molecule, but no atoms are added or lost.",
+            "I play a critical role in the refining of crude oil and the production of petrochemicals.",
+            "I usually require high temperatures and sometimes the presence of a catalyst.",
+            "The goal of my process is to break large, complex molecules into smaller, more valuable ones.",
+            "Who am I??"
+        ],
+        "answer": "cracking"
+    },
+    {
+        "clues": [
+            "I am a reaction where the number of valence electrons of elements is altered.",
+            "My main mechanism involves the movement of electrons between two species.",
+            "I can be spontaneous, such as when metals corrode, or forced in industrial processes.",
+            "I have a key role in energy production, such as in batteries and fuel cells.",
+            "Who am I??"
+        ],
+        "answer": "redox reaction"
+    },
+    {
+        "clues": [
+            "I am essential for ensuring that the components in a chemical process are evenly distributed.",
+            "I occur in equipment such as stirred tanks or batch reactors.",
+            "I may involve the application of shear stress to overcome viscosity differences.",
+            "I improve heat and mass transfer efficiency in processes ranging from fermentation to polymerization.",
+            "Who am I??"
+        ],
+        "answer": "mixing"
+    },
+    {
+        "clues": [
+            "I am a measure of a material's resistance to deformation.",
+            "I can be categorized into dynamic and kinematic types.",
+            "In fluid mechanics, I relate to the internal friction between layers of a flowing fluid.",
+            "In most cases, I determines how easily a fluid flows under stress or when it's moved.",
+            "Who am I??"
+        ],
+        "answer": "viscosity"
+    },
+    {
+        "clues": [
+            "I am a hallmark of many chemical reactors.",
+            "I describe the balance between the rates of two opposing processes.",
+            "My state can be reached when the concentration of reactants and products remains constant.",
+            "I am a point where reactions can proceed forward and reverse at the same rate.",
+            "I am quantified by a mathematical expression known as the equilibrium constant.",
+            "Who am I??"
+        ],
+        "answer": "chemical equilibrium"
+    },
+    {
+        "clues": [
+            "I am a critical process in which molecules are transformed into more reactive species.",
+            "I often require energy and sometimes the presence of a catalyst.",
+            "I am central to reactions such as polymerization, where small molecules combine to form larger ones.",
+            "I can occur in both gas and liquid phases, depending on the system and temperature.",
+            "Who am I??"
+        ],
+        "answer": "activation energy"
+    },
+    {
+        "clues": [
+            "I am a very important device in engineering",
+            "I work by utilizing the difference in temperature to drive thermal energy from one stream to another.",
+            "In some configurations, I may use a series of metal plates or tubes to maximize heat transfer.",
+            "My efficiency is vital in processes such as refrigeration, power generation, and chemical reactions.",
+            "I am a type of exchanger often used to transfer heat between two fluids.",
+            "Who am I??"
+        ],
+        "answer": "heat exchanger"
+    },
+    {
+        "clues": [
+            "I am a process that occurs with heat.",
+            "I involve the movement of molecules from one phase to another, often in the presence of a heat source.",
+            "I can be seen in processes like evaporation or boiling.",
+            "I am central to the operation of boilers, distillation units, and cooling towers.",
+            "I cause molecules to change from a liquid to a gas.",
+            "Who am I??"
+        ],
+        "answer": "vaporization"
+    },
+    {
+        "clues": [
+            "I am used to control the flow of fluids in pipes or reactors.",
+            "I help regulate the pressure and volume in a system.",
+            "I can be seen in processes ranging from water treatment to chemical production.",
+            "I consist of a small opening that can be adjusted to allow more or less fluid through.",
+            "Who am I??"
+        ],
+        "answer": "valve"
+    },
+    {
+        "clues": [
+            "I involve the transformation of a compound.",
+            "I often occur in combustion reactions or in the formation of oxides.",
+            "I can be observed in processes like oxidative cracking or the formation of sulfur dioxide in refineries.",
+            "I am common by adding oxygen or removing hydrogen.",
+            "I am the reverse of a reduction reaction.",
+            "Who am I??"
+        ],
+        "answer": "oxidation"
+    },
+    {
+        "clues": [
+            "I describe a common process. Very common that people hardly take note of me.",
+            "I am an essential concept in processes like extraction, absorption, and crystallization.",
+            "I can happen when temperature or pressure changes.",
+            "I often occur in systems such as the mixing of gases, liquids, or solids.",
+            "I am the process where a solute dissolves into a solvent.",
+            "Who am I??"
+        ],
+        "answer": "dissolution"
+    },
+    {
+        "clues": [
+            "I am a physical property.",
+            "I relate the resistance of a material to compressive stress.",
+            "I am often used to describe the stiffness of materials like metals or polymers.",
+            "I can be measured through tests like the Brinell or Rockwell hardness tests.",
+            "I play an important role in the design of chemical reactors and equipment that must withstand high pressure or stress.",
+            "Who am I??"
+        ],
+        "answer": "hardness"
+    },
+    {
+        "clues": [
+            "I am a type of reactor that operates continuously.",
+            "I often operate in processes that require constant production, such as in the production of chemicals, fertilizers, or petroleum refining.",
+            "My design must carefully balance flow rates, reaction time, and temperature control.",
+            "I am typically seen in large-scale industrial applications and can be quite complex to manage.",
+            "I operate where reactants are constantly fed in and products are constantly removed.",
+            "Who am I??"
+        ],
+        "answer": "continuous reactor"
+    },
+    {
+        "clues": [
+            "I play an important role in processes such as emulsification, fermentation, and fluidized bed reactors.",
+            "My behavior can be described by principles such as Stoke's Law or Brownian motion.",
+            "I am a phenomenon that occurs when particles in a liquid or gas are distributed evenly throughout another substance.",
+            "I can be a suspension of solid particles in a fluid or a mixture of two liquids.",
+            "Who am I??"
+        ],
+        "answer": "dispersion"
+    },
+    {
+        "clues": [
+            "I am a critical process.",
+            "I often use surfaces like metal plates or tubes to separate the two fluids.",
+            "I am frequently used in industrial processes to heat or cool fluids, such as in HVAC systems or heat exchangers.",
+            "My efficiency is determined by factors like heat transfer coefficient, temperature difference, and surface area.",
+            "I am an occurrence in which heat is transferred between fluids without them physically mixing.",
+            "Who am I??"
+        ],
+        "answer": "heat transfer"
+    },
+    {
+        "clues": [
+            "I refer to the flow of material in a system.",
+            "I can result from the geometry of the pipes or the nature of the fluid.",
+            "I occur where the speed of the fluid or particles is not uniform.",
+            "In my case, I generate mixing and turbulence, often causing uneven distribution of heat or mass.",
+            "I can be contrasted with laminar flow, where fluid layers move in parallel without mixing.",
+            "Who am I??"
+        ],
+        "answer": "turbulent flow"
+    },
+    {
+        "clues": [
+            "I am a phenomenon.",
+            "I often occur in systems like gases dissolving into liquids, where increasing temperature can enhance the solubility of a solute.",
+            "I play a significant role in processes like gas absorption and crystallization.",
+            "I can be explained by Le Chatelier's Principle in some systems.",
+            "I am observed when a substance's solubility increases with temperature.",
+            "Who am I??"
+        ],
+        "answer": "solubility increase with temperature"
+    },
+    {
+        "clues": [
+            "I am used to maintain a system at a set operating point despite disturbances.",
+            "I am a system that continuously adjusts inputs to keep outputs within desired limits.",
+            "I can be implemented through control loops, involving controllers, sensors, and actuators.",
+            "I am commonly found in distillation columns, reactors, and heat exchangers to ensure stable operations.",
+            "Who am I??"
+        ],
+        "answer": "feedback control system"
+    },
+    {
+        "clues": [
+            "I describe the relationship between the heat added to a system and the resulting temperature change.",
+            "I am often used to calculate energy requirements in heating, cooling, or chemical reactions.",
+            "I involve specific heat capacity, a property that varies with temperature and phase.",
+            "I am crucial in the design of thermal systems and in understanding energy balances.",
+            "Who am I??"
+        ],
+        "answer": "heat capacity"
+    },
+    {
+        "clues": [
+            "I represent the relationship between the pressure, volume, and temperature of a gas.",
+            "I am used to predict the behavior of gases in many chemical engineering processes.",
+            "I serve as a foundation for the development of more complex thermodynamic models.",
+            "My equation is commonly known as ( PV = nRT ).",
+            "Who am I??"
+        ],
+        "answer": "ideal gas law"
+    },
+    {
+        "clues": [
+            "I describe a system in which energy is conserved, but no heat is exchanged with the surroundings.",
+            "I am used to analyze processes that are perfectly insulated from their environment.",
+            "I am based on the first law of thermodynamics and describe the change in internal energy or work done.",
+            "My efficiency can be seen in the calculation of engines or compressors operating in an ideal state.",
+            "Who am I??"
+        ],
+        "answer": "adiabatic process"
+    },
+    {
+        "clues": [
+            "I am used to calculate the amount of work required to compress or expand a gas in an idealized process.",
+            "I relate pressure and volume in a way that follows a constant, such as in isentropic or isothermal processes.",
+            "I play a key role in understanding the thermodynamic efficiency of compressors and turbines.",
+            "My application is vital when designing equipment like piston engines or gas turbines.",
+            "Who am I??"
+        ],
+        "answer": "polytropic process"
+    },
+    {
+        "clues": [
+            "I describe a thermodynamic system where the temperature is constant during a phase change or reaction.",
+            "I am used to understand processes such as boiling or melting, where heat is added without changing temperature.",
+            "I can be described by a constant heat of transformation and play a key role in distillation, crystallization, and refrigeration.",
+            "I am also known for being central to understanding the phase diagram of a substance.",
+            "Who am I??"
+        ],
+        "answer": "isothermal process"
+    },
+    {
+        "clues": [
+            "I am an advanced process used to control multiple variables simultaneously in complex systems.",
+            "I require a sophisticated algorithm to predict future behavior and optimize system performance.",
+            "I rely on models of the process, such as transfer functions or state-space representations.",
+            "I am widely used in the chemical industry for controlling reactors, distillation columns, and multi-unit operations.",
+            "Who am I??"
+        ],
+        "answer": "model predictive control (MPC)"
+    },
+    {
+        "clues": [
+            "I help determine the most cost-effective design or operation of a chemical process.",
+            "I consider constraints like material balances, energy use, and equipment capacity in my calculations.",
+            "I am often used in process optimization and can involve methods such as linear programming or dynamic optimization.",
+            "My aim is to minimize energy use, waste generation, and operating costs while meeting product specifications.",
+            "Who am I??"
+        ],
+        "answer": "process optimization"
+    },
+    {
+        "clues": [
+            "I measure the energy required to cause a phase transition from solid to liquid.",
+            "I am significant in understanding melting points and the energy required for crystallization.",
+            "My value depends on the substance in question and the amount of material involved.",
+            "I can be used in designing reactors where materials undergo phase changes and need to be heated or cooled.",
+            "Who am I??"
+        ],
+        "answer": "latent heat of fusion"
+    },
+    {
+        "clues": [
+            "I am a state function that represents the total energy of a system, including both internal energy and the energy required to displace its surroundings.",
+            "I am often used in the analysis of chemical reactions and phase changes.",
+            "I can be expressed as ( H = U + PV), where ( U ) is internal energy and ( PV ) is the work done by the system.",
+            "I am critical in understanding the energetics of chemical processes and in calculating reaction enthalpies.",
+            "Who am I??"
+        ],
+        "answer": "enthalpy"
+    },
+    {
+        "clues": [
+            "I represent the ratio of the enthalpy change to the temperature change for a system at constant pressure.",
+            "I can be used to calculate the heat added or removed from a substance during temperature changes.",
+            "I am crucial in calculating energy balances for heat exchangers, reactors, and other thermal processes.",
+            "I am linked with the specific heat capacity but defined for materials undergoing phase changes.",
+            "Who am I??"
+        ],
+        "answer": "heat capacity at constant pressure (Cp)"
+    },
+    {
+        "clues": [
+            "I am a dimensionless number that helps predict the flow regime of a fluid.",
+            "I indicate whether a flow is laminar or turbulent, which affects mixing and heat transfer rates.",
+            "I play a role in the Reynolds number, a key parameter for designing pumps, reactors, and heat exchangers.",
+            "In the case of turbulent flow, I can be used to estimate the drag force experienced by particles in suspension.",
+            "Who am I??"
+        ],
+        "answer": "Reynolds number"
+    },
+    {
+        "clues": [
+            "I define the equilibrium condition for a system where two phases are in contact, such as liquid and vapor.",
+            "I relate the partial pressures of components in a binary mixture and the temperature to the mole fraction of each phase.",
+            "I am central to understanding distillation, evaporation, and many separation processes.",
+            "My formula is often used in phase diagrams and to calculate the composition of phases at equilibrium.",
+            "Who am I??"
+        ],
+        "answer": "Raoult's Law"
+    },
+    {
+        "clues": [
+            "I am a method used to estimate the heat required for a reaction or phase change under non-ideal conditions.",
+            "I involve a combination of both experimental data and theoretical calculations.",
+            "My calculation may account for pressure, temperature, and concentration changes during reactions.",
+            "I am used extensively in reactor design, especially for systems involving multiple phases and non-ideal mixtures.",
+            "Who am I??"
+        ],
+        "answer": "enthalpy of reaction"
+    }
+]

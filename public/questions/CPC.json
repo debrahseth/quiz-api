@@ -1,0 +1,267 @@
+[
+    {
+        "question": "What is the molar flow rate of a stream containing 2 moles of A per minute if the stream flows at 5 L/min and the molar volume of A is 22.4 L/mol?",
+        "type": "fill-in",
+        "answer": "0.45"
+    },
+    {
+        "question": "The chemical reaction A + B → C is assumed to be complete. If 3 moles of A and 4 moles of B are mixed, the limiting reactant is A. Is this statement true or false?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the heat capacity of a substance is 3.5 J/g°C and the mass is 100 g, how much heat is required to raise the temperature by 10°C?",
+        "type": "fill-in",
+        "answer": "350"
+    },
+    {
+        "question": "What is the volume of a gas in a chemical reaction if the molar volume at STP is 22.4 L/mol and the number of moles of the gas is 0.5?",
+        "type": "fill-in",
+        "answer": "11.2"
+    },
+    {
+        "question": "If the molecular weight of a gas is 28 g/mol, and the mass flow rate is 140 g/min, what is the molar flow rate of the gas?",
+        "type": "fill-in",
+        "answer": "5"
+    },
+    {
+        "question": "In a combustion process, excess oxygen is used. Is the oxygen used in excess converted into CO2?",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "For a steady-state material balance on a batch reactor, if the inlet flow is 1000 mol/h and the outlet flow is 800 mol/h, what is the accumulation in the reactor?",
+        "type": "fill-in",
+        "answer": "200"
+    },
+    {
+        "question": "If 2 moles of A react with 3 moles of B to form C in a chemical reaction, what is the stoichiometric ratio of A to B?",
+        "type": "fill-in",
+        "answer": "2:3"
+    },
+    {
+        "question": "The flow rate of a chemical reactor's product is 500 L/min. If the density of the product is 1.2 g/mL, what is the mass flow rate in g/min?",
+        "type": "fill-in",
+        "answer": "600000"
+    },
+    {
+        "question": "The heat required to vaporize 1 kg of water at 100°C is 2260 kJ. If 5 kg of water is vaporized, how much heat is required?",
+        "type": "fill-in",
+        "answer": "11300"
+    },
+    {
+        "question": "The reactor operates at 80% conversion. If the inlet stream contains 100 mol/h of reactant, what is the outlet stream's composition?",
+        "type": "fill-in",
+        "answer": "80 mol/h of product"
+    },
+    {
+        "question": "Is the following statement true? For an isothermal process, the temperature remains constant while the pressure and volume may change.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A batch reactor has 100 kg of reactant A, and it is 90% converted after 3 hours. What is the amount of product formed?",
+        "type": "fill-in",
+        "answer": "90 kg"
+    },
+    {
+        "question": "The total energy required to heat 1000 kg of a material from 20°C to 100°C with a specific heat capacity of 0.5 kJ/kg°C is: ",
+        "type": "fill-in",
+        "answer": "40000"
+    },
+    {
+        "question": "In a chemical process, the rate of reaction doubles when the temperature increases by 10°C. Is this a typical behavior observed in chemical kinetics?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the air-fuel ratio in a combustion process is 15:1, and the amount of fuel burned is 10 kg, how much air is required for combustion?",
+        "type": "fill-in",
+        "answer": "150 kg"
+    },
+    {
+        "question": "The heat of reaction is exothermic. If the reactants' enthalpy is 500 kJ/mol and the products' enthalpy is 200 kJ/mol, what is the heat released during the reaction?",
+        "type": "fill-in",
+        "answer": "300"
+    },
+    {
+        "question": "What is the molar flow rate of a gas in a pipe if the velocity of the gas is 5 m/s and the pipe diameter is 0.1 m?",
+        "type": "fill-in",
+        "answer": "1.96"
+    },
+    {
+        "question": "In a heat exchanger, if the hot stream has a flow rate of 10 kg/s and the heat capacity is 4 kJ/kg°C, and the temperature difference is 50°C, what is the heat transfer rate?",
+        "type": "fill-in",
+        "answer": "2000"
+    },
+    {
+        "question": "If the molecular weight of a substance is 18 g/mol and the density is 1.2 g/cm³, what is the volume of 36 grams of the substance?",
+        "type": "fill-in",
+        "answer": "30"
+    },
+    {
+        "question": "For a continuous stirred-tank reactor (CSTR) operating at steady state, if the inlet flow rate is equal to the outlet flow rate, does the accumulation term in the material balance become zero?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the molar flow rate of a stream containing 2 moles of A per minute if the stream flows at 5 L/min and the molar volume of A is 22.4 L/mol?",
+        "type": "fill-in",
+        "answer": "0.45"
+    },
+    {
+        "question": "The chemical reaction A + B → C is assumed to be complete. If 3 moles of A and 4 moles of B are mixed, the limiting reactant is A. Is this statement true or false?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the heat capacity of a substance is 3.5 J/g°C and the mass is 100 g, how much heat is required to raise the temperature by 10°C?",
+        "type": "fill-in",
+        "answer": "350"
+    },
+    {
+        "question": "What is the volume of a gas in a chemical reaction if the molar volume at STP is 22.4 L/mol and the number of moles of the gas is 0.5?",
+        "type": "fill-in",
+        "answer": "11.2"
+    },
+    {
+        "question": "If the molecular weight of a gas is 28 g/mol, and the mass flow rate is 140 g/min, what is the molar flow rate of the gas?",
+        "type": "fill-in",
+        "answer": "5"
+    },
+    {
+        "question": "In a combustion process, excess oxygen is used. Is the oxygen used in excess converted into CO2?",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "For a steady-state material balance on a batch reactor, if the inlet flow is 1000 mol/h and the outlet flow is 800 mol/h, what is the accumulation in the reactor?",
+        "type": "fill-in",
+        "answer": "200"
+    },
+    {
+        "question": "If 2 moles of A react with 3 moles of B to form C in a chemical reaction, what is the stoichiometric ratio of A to B?",
+        "type": "fill-in",
+        "answer": "2:3"
+    },
+    {
+        "question": "The flow rate of a chemical reactor's product is 500 L/min. If the density of the product is 1.2 g/mL, what is the mass flow rate in g/min?",
+        "type": "fill-in",
+        "answer": "600000"
+    },
+    {
+        "question": "The heat required to vaporize 1 kg of water at 100°C is 2260 kJ. If 5 kg of water is vaporized, how much heat is required?",
+        "type": "fill-in",
+        "answer": "11300"
+    },
+    {
+        "question": "The reactor operates at 80% conversion. If the inlet stream contains 100 mol/h of reactant, what is the outlet stream's composition?",
+        "type": "fill-in",
+        "answer": "80 mol/h of product"
+    },
+    {
+        "question": "Is the following statement true? For an isothermal process, the temperature remains constant while the pressure and volume may change.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A batch reactor has 100 kg of reactant A, and it is 90% converted after 3 hours. What is the amount of product formed?",
+        "type": "fill-in",
+        "answer": "90 kg"
+    },
+    {
+        "question": "The total energy required to heat 1000 kg of a material from 20°C to 100°C with a specific heat capacity of 0.5 kJ/kg°C is: ",
+        "type": "fill-in",
+        "answer": "40000"
+    },
+    {
+        "question": "In a chemical process, the rate of reaction doubles when the temperature increases by 10°C. Is this a typical behavior observed in chemical kinetics?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the air-fuel ratio in a combustion process is 15:1, and the amount of fuel burned is 10 kg, how much air is required for combustion?",
+        "type": "fill-in",
+        "answer": "150 kg"
+    },
+    {
+        "question": "The heat of reaction is exothermic. If the reactants' enthalpy is 500 kJ/mol and the products' enthalpy is 200 kJ/mol, what is the heat released during the reaction?",
+        "type": "fill-in",
+        "answer": "300"
+    },
+    {
+        "question": "What is the molar flow rate of a gas in a pipe if the velocity of the gas is 5 m/s and the pipe diameter is 0.1 m?",
+        "type": "fill-in",
+        "answer": "1.96"
+    },
+    {
+        "question": "In a heat exchanger, if the hot stream has a flow rate of 10 kg/s and the heat capacity is 4 kJ/kg°C, and the temperature difference is 50°C, what is the heat transfer rate?",
+        "type": "fill-in",
+        "answer": "2000"
+    },
+    {
+        "question": "If the molecular weight of a substance is 18 g/mol and the density is 1.2 g/cm³, what is the volume of 36 grams of the substance?",
+        "type": "fill-in",
+        "answer": "30"
+    },
+    {
+        "question": "For a continuous stirred-tank reactor (CSTR) operating at steady state, if the inlet flow rate is equal to the outlet flow rate, does the accumulation term in the material balance become zero?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following best describes the behavior of an ideal gas in an isochoric process?",
+        "type": "multiple-choice",
+        "options": [
+            "The pressure remains constant.",
+            "The volume remains constant.",
+            "The temperature remains constant.",
+            "The internal energy remains constant."
+        ],
+        "answer": "The volume remains constant."
+    },
+    {
+        "question": "What is the total heat required to convert 10 kg of ice at -5°C to steam at 100°C if the specific heat capacities for ice, water, and steam are 2.1 kJ/kg°C, 4.18 kJ/kg°C, and 2.0 kJ/kg°C, respectively?",
+        "type": "multiple-choice",
+        "options": [
+            "50,000 kJ",
+            "55,000 kJ",
+            "60,000 kJ",
+            "70,000 kJ"
+        ],
+        "answer": "60,000 kJ"
+    },
+    {
+        "question": "What is the molar flow rate of a gas in a pipeline if the gas has a density of 1.2 kg/m³ and the pipeline has a flow rate of 1000 m³/h? (Molecular weight of the gas = 28 g/mol)",
+        "type": "multiple-choice",
+        "options": [
+            "36 mol/h",
+            "42 mol/h",
+            "45 mol/h",
+            "50 mol/h"
+        ],
+        "answer": "42 mol/h"
+    },
+    {
+        "question": "Which of the following is a method for determining the heat capacity of a substance?",
+        "type": "multiple-choice",
+        "options": [
+            "Bomb calorimeter",
+            "Adiabatic calorimeter",
+            "Thermocouple",
+            "Thermistor"
+        ],
+        "answer": "Bomb calorimeter"
+    },
+    {
+        "question": "In a material balance, if the accumulation is positive, it indicates that the amount of material is: ",
+        "type": "multiple-choice",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "None of the above"
+        ],
+        "answer": "Increasing"
+    }
+]

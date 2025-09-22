@@ -1,0 +1,184 @@
+[
+    {
+        "question": "The rate of a first-order reaction is proportional to the concentration of only one reactant raised to the first power.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "For a zero-order reaction, the rate is independent of the concentration of reactants.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The residence time distribution (RTD) in a reactor is used to characterize the flow pattern of fluids within the reactor.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a continuous stirred-tank reactor (CSTR), the concentration of reactants is uniform throughout the reactor.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Catalysts are consumed during the reaction process and cannot be reused.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The rate constant of a reaction is temperature-dependent and is described by the Arrhenius equation.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "For a reaction following the Michaelis-Menten mechanism, the reaction rate increases linearly with substrate concentration at high concentrations.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In a packed bed reactor, the flow is typically assumed to be laminar with little or no mixing between the fluid streams.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The activation energy of a reaction can be determined by plotting ln(k) versus 1/T according to the Arrhenius equation.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is the rate law expression for a first-order reaction?",
+        "type": "multiple-choice",
+        "options": [
+            "rate = k[A]",
+            "rate = k[A]^2",
+            "rate = k[A]^n",
+            "rate = k[A] + [B]"
+        ],
+        "answer": "rate = k[A]"
+    },
+    {
+        "question": "Which reactor type is most suitable for reactions with fast kinetics and a low residence time requirement?",
+        "type": "multiple-choice",
+        "options": [
+            "Continuous stirred-tank reactor (CSTR)",
+            "Batch reactor",
+            "Plug flow reactor (PFR)",
+            "Packed bed reactor"
+        ],
+        "answer": "Plug flow reactor (PFR)"
+    },
+    {
+        "question": "Which of the following is the primary mechanism by which heterogeneous catalysts speed up reactions?",
+        "type": "multiple-choice",
+        "options": [
+            "They lower the activation energy of the reaction",
+            "They provide a source of energy to drive the reaction",
+            "They increase the concentration of reactants",
+            "They change the equilibrium constant of the reaction"
+        ],
+        "answer": "They lower the activation energy of the reaction"
+    },
+    {
+        "question": "In a catalyzed reaction, the rate-limiting step is typically the step with the highest activation energy.",
+        "type": "multiple-choice",
+        "options": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "Which of the following is commonly used as a catalyst in the hydrogenation of unsaturated hydrocarbons?",
+        "type": "multiple-choice",
+        "options": [
+            "Nickel (Ni)",
+            "Copper (Cu)",
+            "Iron (Fe)",
+            "Platinum (Pt)"
+        ],
+        "answer": "Nickel (Ni)"
+    },
+    {
+        "question": "Which of the following describes a zero-order reaction with respect to reactant concentration?",
+        "type": "multiple-choice",
+        "options": [
+            "The rate is proportional to the concentration of the reactant",
+            "The rate is independent of the concentration of the reactant",
+            "The rate is inversely proportional to the concentration of the reactant",
+            "The rate depends on the square of the concentration of the reactant"
+        ],
+        "answer": "The rate is independent of the concentration of the reactant"
+    },
+    {
+        "question": "What is the most common type of reaction that occurs in a catalytic reactor?",
+        "type": "multiple-choice",
+        "options": [
+            "Homogeneous reactions",
+            "Heterogeneous reactions",
+            "Endothermic reactions",
+            "Exothermic reactions"
+        ],
+        "answer": "Heterogeneous reactions"
+    },
+    {
+        "question": "The overall rate of reaction in a catalytic process can be determined by the rate-determining step, which typically occurs on the surface of the catalyst. This is called?",
+        "type": "fill-in",
+        "answer": "Surface reaction step"
+    },
+    {
+        "question": "In the Langmuir-Hinshelwood model for catalysis, what does the term 'adsorption' refer to?",
+        "type": "fill-in",
+        "answer": "The process of reactant molecules binding to the surface of the catalyst"
+    },
+    {
+        "question": "The activation energy of a reaction can be calculated from the slope of a plot of ln(k) versus 1/T. What is the slope of this plot equal to?",
+        "type": "fill-in",
+        "answer": "-Ea/R"
+    },
+    {
+        "question": "In the context of reaction engineering, what does the term 'selectivity' refer to?",
+        "type": "fill-in",
+        "answer": "The ability of a catalyst to favor the formation of a specific product over other possible products"
+    },
+    {
+        "question": "The rate of reaction for a second-order reaction with respect to reactant A is given by: rate = k[A]^2. What is the unit of the rate constant (k)?",
+        "type": "fill-in",
+        "answer": "L/(mol·s)"
+    },
+    {
+        "question": "What is the effect of increasing temperature on the rate constant of a reaction according to the Arrhenius equation?",
+        "type": "fill-in",
+        "answer": "The rate constant increases"
+    },
+    {
+        "question": "Which type of catalytic reaction occurs when the catalyst and reactants are in the same phase?",
+        "type": "fill-in",
+        "answer": "Homogeneous catalysis"
+    },
+    {
+        "question": "In a first-order reaction, the half-life is independent of the initial concentration of reactant. What is the expression for the half-life (t₁/₂) in terms of the rate constant (k)? t₁/₂ = .....",
+        "type": "fill-in",
+        "answer": "ln(2)/k"
+    },
+    {
+        "question": "The phenomenon in which the catalyst is deactivated due to the accumulation of reactants or products on its surface is known as:",
+        "type": "multiple-choice",
+        "options": [
+            "Poisoning",
+            "Sintering",
+            "Coking",
+            "Leaching"
+        ],
+        "answer": "Poisoning"
+    },
+    {
+        "question": "The reactor design equation for a plug flow reactor (PFR) involves integrating the rate law over the reactor length. What type of reactor behavior does a PFR exhibit?",
+        "type": "multiple-choice",
+        "options": [
+            "Perfect mixing",
+            "No mixing along the length of the reactor",
+            "Uniform temperature throughout the reactor",
+            "Constant pressure drop along the reactor"
+        ],
+        "answer": "No mixing along the length of the reactor"
+    }
+]

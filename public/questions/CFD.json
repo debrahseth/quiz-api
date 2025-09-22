@@ -1,0 +1,250 @@
+[
+    {
+        "question": "In CFD, what is the purpose of using a turbulence model like k-ε or k-ω?",
+        "type": "multiple-choice",
+        "options": [
+            "To model turbulent flow",
+            "To estimate turbulent viscosity",
+            "To predict chaotic fluid motion",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In a CFD simulation, if the mesh is too coarse, what is likely to happen?",
+        "type": "multiple-choice",
+        "options": [
+            "The solution will be inaccurate",
+            "Important details will be missed",
+            "Results may be unreliable",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In CFD, what does the term 'time step' refer to?",
+        "type": "multiple-choice",
+        "options": [
+            "The time interval used to update the solution",
+            "The step size for time-dependent simulations",
+            "A small change in time for calculations",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is a key challenge when simulating turbulence in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "Modeling chaotic flow accurately",
+            "Simulating turbulent eddies",
+            "Capturing complex fluid motion",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of performing a grid independence study in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "To check if the solution depends on the grid size",
+            "To ensure the results are not affected by mesh refinement",
+            "To confirm the solution is accurate regardless of the mesh",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In CFD, what is the role of the 'velocity inlet' boundary condition?",
+        "type": "multiple-choice",
+        "options": [
+            "To define the incoming fluid velocity",
+            "To set the flow speed at the inlet",
+            "To specify the velocity at the domain entrance",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does the term 'Prandtl number' represent in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "The ratio of momentum to thermal diffusivity",
+            "A measure of fluid heat transfer",
+            "The ratio of viscous to thermal resistance",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In CFD, what does 'mesh resolution' refer to?",
+        "type": "multiple-choice",
+        "options": [
+            "The number of cells used to discretize the flow domain",
+            "The fineness of the computational grid",
+            "The level of detail in the simulation grid",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the purpose of a turbulence model in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "To simulate the effects of turbulence in the flow",
+            "To model chaotic fluid motion",
+            "To account for turbulent viscosity",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In CFD, what does the term 'convergence' refer to?",
+        "type": "multiple-choice",
+        "options": [
+            "When the solution stops changing with each iteration",
+            "The point at which results stabilize",
+            "The condition where the solution reaches a steady state",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Computational Fluid Dynamics (CFD) involves the numerical solution of fluid flow equations using computational algorithms.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In CFD, the Navier-Stokes equations describe the motion of an incompressible, viscous fluid.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In CFD, turbulence models are not required if the flow is laminar.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The finite volume method (FVM) is commonly used in CFD for discretizing the governing equations of fluid flow.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In Computational Fluid Dynamics, mesh refinement is used to increase the accuracy of the numerical solution in regions with high gradients.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The turbulence model used in CFD simulations determines the accuracy of predictions for high Reynolds number flows.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a common turbulence model used in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "k-ε model",
+            "Prandtl mixing length model",
+            "Reynolds number model",
+            "All of the above"
+        ],
+        "answer": "k-ε model"
+    },
+    {
+        "question": "What is the primary purpose of a boundary layer model in CFD simulations?",
+        "type": "multiple-choice",
+        "options": [
+            "To predict the behavior of fluid inside a pipe",
+            "To model the flow near solid surfaces where velocity gradients are large",
+            "To solve for turbulent flow conditions",
+            "To estimate the heat transfer coefficient"
+        ],
+        "answer": "To model the flow near solid surfaces where velocity gradients are large"
+    },
+    {
+        "question": "In a CFD simulation, the term 'mesh resolution' refers to the number of elements used to discretize the flow domain.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which method is typically used for solving the discretized fluid flow equations in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "Finite Difference Method (FDM)",
+            "Finite Element Method (FEM)",
+            "Finite Volume Method (FVM)",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "The term 'Reynolds number' in CFD refers to the ratio of inertial forces to viscous forces in a fluid flow.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What does the 'Y+ value' represent in turbulence modeling in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "The distance from the wall in mesh units",
+            "The turbulence intensity at the boundary layer",
+            "The velocity profile in turbulent flow",
+            "The temperature gradient near the wall"
+        ],
+        "answer": "The distance from the wall in mesh units"
+    },
+    {
+        "question": "In CFD, 'convergence' refers to the condition where the numerical solution reaches a steady state and no longer changes with successive iterations.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is NOT a type of boundary condition commonly used in CFD?",
+        "type": "multiple-choice",
+        "options": [
+            "Velocity inlet",
+            "Pressure outlet",
+            "Temperature gradient",
+            "Magnetic field boundary"
+        ],
+        "answer": "Magnetic field boundary"
+    },
+    {
+        "question": "In CFD, the term 'laminar flow' refers to flow with smooth and orderly layers where viscous forces dominate over inertial forces.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following methods is used to solve the discretized form of the Navier-Stokes equations in CFD simulations?",
+        "type": "multiple-choice",
+        "options": [
+            "Explicit time-stepping methods",
+            "Implicit time-stepping methods",
+            "Multigrid methods",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In a CFD simulation, which of the following is used to improve solution accuracy in areas with high gradients?",
+        "type": "multiple-choice",
+        "options": [
+            "Mesh refinement",
+            "Turbulence model",
+            "Boundary condition",
+            "Time-stepping method"
+        ],
+        "answer": "Mesh refinement"
+    },
+    {
+        "question": "Which equation is typically solved in CFD to model the velocity and pressure fields in fluid flow?",
+        "type": "multiple-choice",
+        "options": [
+            "Navier-Stokes equations",
+            "Bernoulli equation",
+            "Continuity equation",
+            "Fick's law"
+        ],
+        "answer": "Navier-Stokes equations"
+    }
+]

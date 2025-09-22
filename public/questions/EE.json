@@ -1,0 +1,183 @@
+[
+    {
+        "question": "The process of removing dissolved and suspended solids from wastewater is known as primary treatment.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Biological treatment of wastewater involves the use of microorganisms to break down organic pollutants.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a septic tank, wastewater undergoes complete treatment before being discharged into the environment.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The primary air pollutant emitted by vehicles is carbon monoxide (CO).",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The most common treatment method for removing heavy metals from industrial effluents is chemical precipitation.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a major source of water pollution?",
+        "type": "multiple-choice",
+        "options": [
+            "Landfills",
+            "Agricultural runoff",
+            "Air emissions",
+            "Industrial solid waste"
+        ],
+        "answer": "Agricultural runoff"
+    },
+    {
+        "question": "Which treatment stage in wastewater treatment removes dissolved organic matter through biological processes?",
+        "type": "multiple-choice",
+        "options": [
+            "Primary treatment",
+            "Secondary treatment",
+            "Tertiary treatment",
+            "Sludge treatment"
+        ],
+        "answer": "Secondary treatment"
+    },
+    {
+        "question": "Which of the following is an example of a renewable energy source that can help reduce air pollution?",
+        "type": "multiple-choice",
+        "options": [
+            "Natural gas",
+            "Solar power",
+            "Coal",
+            "Nuclear energy"
+        ],
+        "answer": "Solar power"
+    },
+    {
+        "question": "The process of removing particulate matter from air using filters or electrostatic precipitators is called?",
+        "type": "multiple-choice",
+        "options": [
+            "Absorption",
+            "Adsorption",
+            "Precipitation",
+            "Collection"
+        ],
+        "answer": "Collection"
+    },
+    {
+        "question": "Which of the following is primarily responsible for the depletion of the ozone layer?",
+        "type": "multiple-choice",
+        "options": [
+            "Carbon dioxide (CO2)",
+            "Nitrogen oxides (NOx)",
+            "Chlorofluorocarbons (CFCs)",
+            "Methane (CH4)"
+        ],
+        "answer": "Chlorofluorocarbons (CFCs)"
+    },
+    {
+        "question": "Which of the following processes is used for removing pathogens from drinking water?",
+        "type": "multiple-choice",
+        "options": [
+            "Filtration",
+            "Chlorination",
+            "Reverse osmosis",
+            "Flocculation"
+        ],
+        "answer": "Chlorination"
+    },
+    {
+        "question": "In solid waste management, what term is used for the process of breaking down organic waste into compost?",
+        "type": "fill-in",
+        "answer": "Composting"
+    },
+    {
+        "question": "The air quality index (AQI) is a tool used to measure the level of air pollution. What does the AQI measure?",
+        "type": "multiple-choice",
+        "options": [
+            "The concentration of water pollutants such as particulate matter, ozone, nitrogen dioxide, sulfur dioxide, and carbon monoxide",
+            "The concentration of air pollutants such as particulate matter, ozone, nitrogen dioxide, sulfur dioxide, and carbon monoxide",
+            "The temperature and humidity of the air",
+            "The amount of CO2 in the atmosphere"
+        ],
+        "answer": "The concentration of air pollutants such as particulate matter, ozone, nitrogen dioxide, sulfur dioxide, and carbon monoxide"
+    },
+    {
+        "question": "What is the term used to describe the measure of a water body’s ability to support aquatic life, which is influenced by the concentration of dissolved oxygen?",
+        "type": "fill-in",
+        "answer": "Water quality"
+    },
+    {
+        "question": "What is the name of the law that regulates the discharge of pollutants into the waters of the United States?",
+        "type": "fill-in",
+        "answer": "Clean Water Act"
+    },
+    {
+        "question": "The removal of oil and grease from wastewater is typically achieved by which physical process?",
+        "type": "fill-in",
+        "answer": "Oil-water separation"
+    },
+    {
+        "question": "Which environmental phenomenon is caused by the trapping of heat in the Earth's atmosphere by gases such as CO2, methane, and water vapor?",
+        "type": "fill-in",
+        "answer": "Greenhouse effect"
+    },
+    {
+        "question": "What term is used for the process in which microorganisms degrade organic pollutants in wastewater treatment?",
+        "type": "fill-in",
+        "answer": "Biodegradation"
+    },
+    {
+        "question": "What type of air pollution is commonly associated with the burning of fossil fuels and is a major contributor to smog formation?",
+        "type": "fill-in",
+        "answer": "Sulfur dioxide"
+    },
+    {
+        "question": "What is the primary purpose of a leachate collection system in a landfill?",
+        "type": "multiple-choice",
+        "options": [
+            "To collect and manage the liquid that percolates through the landfill waste",
+            "To capture methane gas generated in the landfill",
+            "To monitor the temperature within the landfill",
+            "To separate recyclable materials from waste"
+        ],
+        "answer": "To collect and manage the liquid that percolates through the landfill waste"
+    },
+    {
+        "question": "Which of the following contaminants is commonly treated using activated carbon in water purification processes?",
+        "type": "multiple-choice",
+        "options": [
+            "Chlorine",
+            "Arsenic",
+            "Nitrates",
+            "Pesticides"
+        ],
+        "answer": "Pesticides"
+    },
+    {
+        "question": "The 'Waste Not' approach in environmental sustainability refers to minimizing what?",
+        "type": "multiple-choice",
+        "options": [
+            "Water consumption",
+            "Waste generation",
+            "Energy consumption",
+            "Air pollution"
+        ],
+        "answer": "Waste generation"
+    },
+    {
+        "question": "The implementation of green roofs and urban vegetation primarily helps in controlling which environmental issue?",
+        "type": "multiple-choice",
+        "options": [
+            "Soil erosion",
+            "Urban heat islands",
+            "Water scarcity",
+            "Air quality"
+        ],
+        "answer": "Urban heat islands"
+    }
+]
