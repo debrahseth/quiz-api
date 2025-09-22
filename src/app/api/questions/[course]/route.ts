@@ -4,7 +4,7 @@ import path from "path";
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { course: string } }
+  context: { params: Promise<{ course: string }> }
 ) {
   const { searchParams } = new URL(request.url);
   const num = parseInt(searchParams.get("num") || "10");
@@ -16,18 +16,22 @@ export async function GET(
     );
   }
 
+  // Resolve the params promise
+  const params = await context.params;
+  const { course } = params;
+
   try {
     const filePath = path.join(
       process.cwd(),
       "public",
       "questions",
-      `${params.course}.json`
+      `${course}.json`
     );
     const fileExists = fs.existsSync(filePath);
 
     if (!fileExists) {
       return NextResponse.json(
-        { error: `Questions for course '${params.course}' not found` },
+        { error: `Questions for course '${course}' not found` },
         { status: 404 }
       );
     }
@@ -38,6 +42,7 @@ export async function GET(
 
     return NextResponse.json(selected);
   } catch (error) {
+    console.error("Error fetching questions:", error);
     return NextResponse.json(
       { error: "Failed to fetch questions" },
       { status: 500 }
