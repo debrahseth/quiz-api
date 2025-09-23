@@ -4,34 +4,34 @@
         "name": "Process Control",
         "program": "Chemical Engineering",
         "level": "Level 300",
-        "semester": "Semester 2"
+        "semester": "Semester 1"
     },
     {
         "id": "CPC",
         "name": "Chemical Process Calculations",
         "program": "Chemical Engineering",
-        "level": "Level 100",
+        "level": "Level 300",
         "semester": "Semester 1"
     },
     {
         "id": "Thermodynamics",
         "name": "Thermodynamics 1",
         "program": "Chemical Engineering",
-        "level": "Level 200",
+        "level": "Level 300",
         "semester": "Semester 1"
     },
     {
         "id": "SeparationProcesses",
         "name": "Separation Processes",
         "program": "Chemical Engineering",
-        "level": "Level 200",
-        "semester": "Semester 2"
+        "level": "Level 300",
+        "semester": "Semester 1"
     },
     {
         "id": "FluidMechanics",
         "name": "Fluid Mechanics",
         "program": "Chemical Engineering",
-        "level": "Level 200",
+        "level": "Level 300",
         "semester": "Semester 1"
     },
     {
@@ -53,62 +53,62 @@
         "name": "Chemical Reaction Engineering",
         "program": "Chemical Engineering",
         "level": "Level 300",
-        "semester": "Semester 2"
+        "semester": "Semester 1"
     },
     {
         "id": "EE",
         "name": "Environmental Engineering",
         "program": "Chemical Engineering",
         "level": "Level 300",
-        "semester": "Semester 2"
+        "semester": "Semester 1"
     },
     {
         "id": "PDS",
         "name": "Process Design and Simulation",
         "program": "Chemical Engineering",
-        "level": "Level 400",
+        "level": "Level 300",
         "semester": "Semester 1"
     },
     {
         "id": "CFD",
         "name": "Computational Fluid Dynamics",
         "program": "Chemical Engineering",
-        "level": "Level 400",
-        "semester": "Semester 2"
+        "level": "Level 300",
+        "semester": "Semester 1"
     },
     {
         "id": "REC",
         "name": "Reaction Engineering and Catalysis",
         "program": "Chemical Engineering",
-        "level": "Level 400",
+        "level": "Level 300",
         "semester": "Semester 1"
     },
     {
         "id": "FBPT",
         "name": "Fluidized Bed and Particle Technology",
         "program": "Chemical Engineering",
-        "level": "Level 400",
-        "semester": "Semester 2"
+        "level": "Level 300",
+        "semester": "Semester 1"
     },
     {
         "id": "CEP",
         "name": "Chemical Engineering Principles",
         "program": "Chemical Engineering",
-        "level": "Level 100",
-        "semester": "Semester 2"
+        "level": "Level 300",
+        "semester": "Semester 1"
     },
     {
         "id": "ICP",
         "name": "Industrial Chemical Processes",
         "program": "Chemical Engineering",
-        "level": "Level 400",
+        "level": "Level 300",
         "semester": "Semester 1"
     },
     {
         "id": "ChemicalEngineering",
         "name": "Introduction to Chemical Engineering",
         "program": "Chemical Engineering",
-        "level": "Level 100",
+        "level": "Level 300",
         "semester": "Semester 1"
     }
 ]
