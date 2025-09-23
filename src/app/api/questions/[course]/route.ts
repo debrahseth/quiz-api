@@ -6,17 +6,6 @@ export async function GET(
   request: NextRequest,
   context: { params: Promise<{ course: string }> }
 ) {
-  const { searchParams } = new URL(request.url);
-  const num = parseInt(searchParams.get("num") || "10");
-
-  if (isNaN(num) || num < 1 || num > 50) {
-    return NextResponse.json(
-      { error: "Invalid number of questions (must be between 1 and 50)" },
-      { status: 400 }
-    );
-  }
-
-  // Resolve the params promise
   const params = await context.params;
   const { course } = params;
 
@@ -38,9 +27,22 @@ export async function GET(
 
     const jsonData = JSON.parse(fs.readFileSync(filePath, "utf8"));
     const shuffled = [...jsonData].sort(() => Math.random() - 0.5);
-    const selected = shuffled.slice(0, Math.min(num, jsonData.length));
+    const { searchParams } = new URL(request.url);
+    const numParam = searchParams.get("num");
 
-    return NextResponse.json(selected);
+    if (numParam) {
+      const num = parseInt(numParam);
+      if (isNaN(num) || num < 1) {
+        return NextResponse.json(
+          { error: "Invalid number of questions" },
+          { status: 400 }
+        );
+      }
+      return NextResponse.json(
+        shuffled.slice(0, Math.min(num, jsonData.length))
+      );
+    }
+    return NextResponse.json(shuffled);
   } catch (error) {
     console.error("Error fetching questions:", error);
     return NextResponse.json(
