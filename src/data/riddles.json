@@ -282,7 +282,7 @@
             "I am widely used in the chemical industry for controlling reactors, distillation columns, and multi-unit operations.",
             "Who am I??"
         ],
-        "answer": "model predictive control (MPC)"
+        "answer": "model predictive control"
     },
     {
         "id": "riddle26",
@@ -326,7 +326,7 @@
             "I am linked with the specific heat capacity but defined for materials undergoing phase changes.",
             "Who am I??"
         ],
-        "answer": "heat capacity at constant pressure (Cp)"
+        "answer": "heat capacity at constant pressure"
     },
     {
         "id": "riddle30",
@@ -349,5 +349,335 @@
             "Who am I??"
         ],
         "answer": "Raoult's Law"
+    },
+    {
+        "id": "riddle32",
+        "clues": [
+            "I am a process that separates particles based on their size or density using a rotating system.",
+            "I am commonly used in industries like pharmaceuticals and wastewater treatment.",
+            "My operation relies on centrifugal force to achieve separation.",
+            "I can be found in equipment like a centrifuge or hydrocyclone.",
+            "Who am I??"
+        ],
+        "answer": "centrifugation"
+    },
+    {
+        "id": "riddle33",
+        "clues": [
+            "I am a material property that describes how well a substance conducts heat.",
+            "I am critical in designing heat exchangers and insulation systems.",
+            "My value is high for metals like copper and low for materials like wood or foam.",
+            "I am measured in units of watts per meter-kelvin.",
+            "Who am I??"
+        ],
+        "answer": "thermal conductivity"
+    },
+    {
+        "id": "riddle34",
+        "clues": [
+            "I am a device that moves fluids through a system, often against resistance.",
+            "I can be centrifugal or positive displacement in design.",
+            "I am essential in processes like water treatment, oil refining, and chemical production.",
+            "My efficiency depends on factors like impeller design and fluid viscosity.",
+            "Who am I??"
+        ],
+        "answer": "pump"
+    },
+    {
+        "id": "riddle35",
+        "clues": [
+            "I am a process where a gas is converted into a liquid under specific conditions.",
+            "I am critical in applications like air conditioning and natural gas processing.",
+            "I often involve cooling a gas below its dew point.",
+            "My efficiency depends on pressure, temperature, and the properties of the gas.",
+            "Who am I??"
+        ],
+        "answer": "condensation"
+    },
+    {
+        "id": "riddle36",
+        "clues": [
+            "I am a measure of a system's disorder or randomness.",
+            "I am governed by the second law of thermodynamics, which states I always increase in an isolated system.",
+            "I am used to predict the spontaneity of chemical reactions and processes.",
+            "My symbol is S, and I am measured in joules per kelvin.",
+            "Who am I??"
+        ],
+        "answer": "entropy"
+    },
+    {
+        "id": "riddle37",
+        "clues": [
+            "I am a type of reactor where reactants are added and products are removed in batches.",
+            "I am often used in processes requiring precise control, like pharmaceuticals or specialty chemicals.",
+            "My operation is non-continuous, unlike a continuous stirred-tank reactor.",
+            "I am ideal for reactions that need specific residence times or staged addition of reagents.",
+            "Who am I??"
+        ],
+        "answer": "batch reactor"
+    },
+    {
+        "id": "riddle38",
+        "clues": [
+            "I am a dimensionless number used to characterize heat transfer in fluid systems.",
+            "I am the ratio of convective to conductive heat transfer across a boundary.",
+            "I am critical in designing heat exchangers and cooling systems.",
+            "My value helps determine whether natural or forced convection dominates.",
+            "Who am I??"
+        ],
+        "answer": "Nusselt number"
+    },
+    {
+        "id": "riddle39",
+        "clues": [
+            "I am a process that removes impurities or unwanted components from a mixture.",
+            "I am used in industries like oil refining, water treatment, and air separation.",
+            "I can involve techniques like distillation, filtration, or adsorption.",
+            "My goal is to produce a purer substance for further processing or use.",
+            "Who am I??"
+        ],
+        "answer": "purification"
+    },
+    {
+        "id": "riddle40",
+        "clues": [
+            "I am a principle that governs the flow of fluids in pipes and channels.",
+            "I state that the total energy of a flowing fluid remains constant along a streamline.",
+            "I am used to analyze systems like pipelines, turbines, and nozzles.",
+            "My equation balances pressure, velocity, and elevation energies.",
+            "Who am I??"
+        ],
+        "answer": "Bernoulli's principle"
+    },
+    {
+        "id": "riddle41",
+        "clues": [
+            "I am a device that reduces the pressure of a gas or liquid in a system.",
+            "I am often used in refrigeration cycles and gas pipelines.",
+            "My operation can cause a temperature drop due to the Joule-Thomson effect.",
+            "I am critical for controlling flow and maintaining system safety.",
+            "Who am I??"
+        ],
+        "answer": "pressure regulator"
+    },
+    {
+        "id": "riddle42",
+        "clues": [
+            "I am a process that separates components based on their differing affinities for a stationary phase.",
+            "I am widely used in laboratories for purifying chemicals or analyzing mixtures.",
+            "My techniques include gas, liquid, and thin-layer varieties.",
+            "I rely on the interaction between a mobile phase and a stationary phase to achieve separation.",
+            "Who am I??"
+        ],
+        "answer": "chromatography"
+    },
+    {
+        "id": "riddle43",
+        "clues": [
+            "I am a measure of the energy available to do work in a system.",
+            "I am defined as the difference between a system's enthalpy and the product of its entropy and temperature.",
+            "I am used to predict the spontaneity of a process at constant temperature and pressure.",
+            "My symbol is G, named after a famous chemist.",
+            "Who am I??"
+        ],
+        "answer": "Gibbs free energy"
+    },
+    {
+        "id": "riddle44",
+        "clues": [
+            "I am a device that converts mechanical energy into electrical energy.",
+            "I am commonly found in power plants and renewable energy systems like wind turbines.",
+            "My operation relies on electromagnetic induction.",
+            "I am essential for supplying electricity in industrial and domestic applications.",
+            "Who am I??"
+        ],
+        "answer": "generator"
+    },
+    {
+        "id": "riddle45",
+        "clues": [
+            "I am a process that uses a semi-permeable membrane to separate components of a solution.",
+            "I am critical in applications like desalination and wastewater treatment.",
+            "I rely on pressure to force a solvent through the membrane while retaining solutes.",
+            "My efficiency depends on membrane selectivity and applied pressure.",
+            "Who am I??"
+        ],
+        "answer": "reverse osmosis"
+    },
+    {
+        "id": "riddle46",
+        "clues": [
+            "I am a dimensionless number that describes the ratio of inertial forces to viscous forces in a fluid.",
+            "I am used to predict whether flow will be laminar or turbulent.",
+            "I am critical in designing pipelines, reactors, and pumps.",
+            "My value is calculated using velocity, characteristic length, and viscosity.",
+            "Who am I??"
+        ],
+        "answer": "Reynolds number"
+    },
+    {
+        "id": "riddle47",
+        "clues": [
+            "I am a process that involves the rapid expansion of a gas, often leading to cooling.",
+            "I am used in refrigeration systems and gas liquefaction processes.",
+            "My effect is explained by the Joule-Thomson coefficient.",
+            "I occur when a gas passes through a throttling valve or porous plug.",
+            "Who am I??"
+        ],
+        "answer": "Joule-Thomson expansion"
+    },
+    {
+        "id": "riddle48",
+        "clues": [
+            "I am a type of heat exchanger that uses a series of thin plates to transfer heat.",
+            "I am compact and efficient, often used in HVAC and food processing.",
+            "My design allows for easy cleaning and maintenance.",
+            "I maximize heat transfer by increasing surface area between two fluids.",
+            "Who am I??"
+        ],
+        "answer": "plate heat exchanger"
+    },
+    {
+        "id": "riddle49",
+        "clues": [
+            "I am a process that uses microorganisms to produce valuable products like ethanol or antibiotics.",
+            "I am central to industries like pharmaceuticals, food, and biofuels.",
+            "My efficiency depends on factors like temperature, pH, and nutrient supply.",
+            "I often take place in a bioreactor under controlled conditions.",
+            "Who am I??"
+        ],
+        "answer": "fermentation"
+    },
+    {
+        "id": "riddle50",
+        "clues": [
+            "I am a property of a fluid that determines its resistance to flow.",
+            "I am measured in units like Pascal-seconds or centipoise.",
+            "I am critical in processes like pumping, mixing, and pipeline design.",
+            "My value is higher for honey than for water.",
+            "Who am I??"
+        ],
+        "answer": "viscosity"
+    },
+    {
+        "id": "riddle51",
+        "clues": [
+            "I am a type of reactor where gas and liquid phases interact with a solid catalyst.",
+            "I am used in processes like hydrocracking and catalytic reforming.",
+            "My design ensures good contact between phases to maximize reaction rates.",
+            "I often operate with a packed bed of catalyst particles.",
+            "Who am I??"
+        ],
+        "answer": "fixed-bed reactor"
+    },
+    {
+        "id": "riddle52",
+        "clues": [
+            "I am a principle that ensures the conservation of mass in a chemical process.",
+            "I am used to track the flow of materials into and out of a system.",
+            "I am critical for designing reactors, separators, and process plants.",
+            "My equation states that mass in equals mass out plus accumulation.",
+            "Who am I??"
+        ],
+        "answer": "mass balance"
+    },
+    {
+        "id": "riddle53",
+        "clues": [
+            "I am a process that removes water from a material to preserve or concentrate it.",
+            "I am used in industries like food processing, pharmaceuticals, and chemicals.",
+            "My methods include evaporation, freeze-drying, and spray drying.",
+            "I improve shelf life and reduce transportation costs.",
+            "Who am I??"
+        ],
+        "answer": "drying"
+    },
+    {
+        "id": "riddle54",
+        "clues": [
+            "I am a device that increases the pressure of a gas by reducing its volume.",
+            "I am essential in systems like air conditioning, refrigeration, and gas pipelines.",
+            "My types include reciprocating, rotary, and centrifugal.",
+            "My efficiency is critical for energy conservation in industrial processes.",
+            "Who am I??"
+        ],
+        "answer": "compressor"
+    },
+    {
+        "id": "riddle55",
+        "clues": [
+            "I am a process that separates solid particles from a liquid or gas using a porous medium.",
+            "I am used in industries like water treatment, oil refining, and pharmaceuticals.",
+            "My efficiency depends on the size of the pores and the properties of the fluid.",
+            "I can be performed using techniques like vacuum or pressure filtration.",
+            "Who am I??"
+        ],
+        "answer": "filtration"
+    },
+    {
+        "id": "riddle56",
+        "clues": [
+            "I am a thermodynamic cycle used in power plants to generate electricity.",
+            "I involve the heating of a working fluid to produce high-pressure steam.",
+            "My efficiency is improved by superheating and reheating the steam.",
+            "I am named after a Scottish engineer who studied thermodynamics.",
+            "Who am I??"
+        ],
+        "answer": "Rankine cycle"
+    },
+    {
+        "id": "riddle57",
+        "clues": [
+            "I am a phenomenon that occurs when a liquid flows through a narrow space without an external force.",
+            "I am driven by surface tension and cohesive forces within the liquid.",
+            "I am critical in processes like inkjet printing and soil moisture movement.",
+            "I explain why water rises in a thin tube against gravity.",
+            "Who am I??"
+        ],
+        "answer": "capillary action"
+    },
+    {
+        "id": "riddle58",
+        "clues": [
+            "I am a type of pump that moves fluid using a rotating impeller.",
+            "I am widely used in applications like water supply and chemical processing.",
+            "My design is simple but effective for handling large volumes of fluid.",
+            "I am less effective for high-viscosity fluids compared to positive displacement pumps.",
+            "Who am I??"
+        ],
+        "answer": "centrifugal pump"
+    },
+    {
+        "id": "riddle59",
+        "clues": [
+            "I am a process that transfers mass between two phases, like gas to liquid.",
+            "I am used in operations like gas scrubbing and carbon capture.",
+            "My efficiency depends on factors like surface area and concentration gradients.",
+            "I am critical in processes involving towers with packing or trays.",
+            "Who am I??"
+        ],
+        "answer": "absorption"
+    },
+    {
+        "id": "riddle60",
+        "clues": [
+            "I am a measure of a material's ability to withstand pulling forces.",
+            "I am critical in designing cables, beams, and pressure vessels.",
+            "My value is determined through tests like the tensile test.",
+            "I am expressed in units like Pascals or psi.",
+            "Who am I??"
+        ],
+        "answer": "tensile strength"
+    },
+    {
+        "id": "riddle61",
+        "clues": [
+            "I am a process that combines small molecules to form larger ones, often with a catalyst.",
+            "I am central to the production of plastics, fibers, and resins.",
+            "My reaction can be chain-growth or step-growth, depending on the mechanism.",
+            "I am responsible for creating materials like polyethylene and nylon.",
+            "Who am I??"
+        ],
+        "answer": "polymerization"
     }
 ]
