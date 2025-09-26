@@ -1,0 +1,163 @@
+[
+    {
+        "question": "What is the primary equation used to describe fluid flow in a streamline?",
+        "type": "fill-in",
+        "answer": "Bernoulli's equation"
+    },
+    {
+        "question": "Is the viscosity of water greater than that of air at the same temperature?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is the unit of dynamic viscosity in the SI system?",
+        "type": "multiple-choice",
+        "options": [
+            "Pa·s",
+            "N·m",
+            "kg/m·s",
+            "m/s"
+        ],
+        "answer": "Pa·s"
+    },
+    {
+        "question": "In laminar flow, the velocity profile of a fluid is typically:",
+        "type": "multiple-choice",
+        "options": [
+            "Uniform across the cross-section",
+            "Parabolic",
+            "Logarithmic",
+            "Linear"
+        ],
+        "answer": "Parabolic"
+    },
+    {
+        "question": "Which law relates the shear stress to the velocity gradient in a fluid?",
+        "type": "fill-in",
+        "answer": "Newton's law of viscosity"
+    },
+    {
+        "question": "What does Reynolds number (Re) predict in fluid flow?",
+        "type": "fill-in",
+        "answer": "Transition between laminar and turbulent flow"
+    },
+    {
+        "question": "Which of the following flow regimes is characterized by chaotic fluid motion?",
+        "type": "multiple-choice",
+        "options": [
+            "Laminar flow",
+            "Turbulent flow",
+            "Transitional flow",
+            "Steady flow"
+        ],
+        "answer": "Turbulent flow"
+    },
+    {
+        "question": "Which of these is a characteristic of an ideal fluid?",
+        "type": "multiple-choice",
+        "options": [
+            "Has viscosity",
+            "Has compressibility",
+            "Is incompressible",
+            "Has density"
+        ],
+        "answer": "Is incompressible"
+    },
+    {
+        "question": "What is the principle that explains the lift force on an airplane wing?",
+        "type": "fill-in",
+        "answer": "Bernoulli's principle"
+    },
+    {
+        "question": "In the context of fluid flow, what does the term 'streamline' refer to?",
+        "type": "multiple-choice",
+        "options": [
+            "A line along which the fluid velocity is constant",
+            "A curve along which the pressure is constant",
+            "A path that a fluid particle follows",
+            "A line along which the flow rate is constant"
+        ],
+        "answer": "A path that a fluid particle follows"
+    },
+    {
+        "question": "What does the continuity equation express in fluid dynamics?",
+        "type": "fill-in",
+        "answer": "The conservation of mass"
+    },
+    {
+        "question": "Which of the following quantities is conserved in an adiabatic flow?",
+        "type": "multiple-choice",
+        "options": [
+            "Pressure",
+            "Temperature",
+            "Enthalpy",
+            "Density"
+        ],
+        "answer": "Enthalpy"
+    },
+    {
+        "question": "What is the Navier-Stokes equation primarily used for in fluid mechanics?",
+        "type": "fill-in",
+        "answer": "Motion of viscous fluid substances"
+    },
+    {
+        "question": "Which of the following is a dimensionless number that characterizes the flow regime in a pipe?",
+        "type": "multiple-choice",
+        "options": [
+            "Reynolds number",
+            "Mach number",
+            "Prandtl number",
+            "Froude number"
+        ],
+        "answer": "Reynolds number"
+    },
+    {
+        "question": "What is the term for the flow where the velocity at each point in the fluid remains constant over time?",
+        "type": "multiple-choice",
+        "options": [
+            "Steady flow",
+            "Unsteady flow",
+            "Turbulent flow",
+            "Laminar flow"
+        ],
+        "answer": "Steady flow"
+    },
+    {
+        "question": "Which of the following is a consequence of the second law of thermodynamics applied to fluid flow?",
+        "type": "multiple-choice",
+        "options": [
+            "Entropy decreases",
+            "Energy increases",
+            "Entropy increases",
+            "Mass is conserved"
+        ],
+        "answer": "Entropy increases"
+    },
+    {
+        "question": "In which type of fluid flow does the velocity vary in layers parallel to the flow direction, with no mixing between layers?",
+        "type": "multiple-choice",
+        "options": [
+            "Turbulent flow",
+            "Laminar flow",
+            "Transitional flow",
+            "Steady flow"
+        ],
+        "answer": "Laminar flow"
+    },
+    {
+        "question": "What does the Darcy-Weisbach equation primarily calculate?",
+        "type": "fill-in",
+        "answer": "Head loss due to friction in a pipe"
+    },
+    {
+        "question": "Which of the following factors is not part of the Bernoulli equation?",
+        "type": "multiple-choice",
+        "options": [
+            "Fluid velocity",
+            "Fluid pressure",
+            "Fluid temperature",
+            "Gravitational potential energy"
+        ],
+        "answer": "Fluid temperature"
+    }
+]

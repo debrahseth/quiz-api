@@ -1,0 +1,267 @@
+[
+    {
+        "question": "What is the general rate law for a chemical reaction involving two reactants A and B? Using 'm' and 'n' as number moles, rate = .....",
+        "type": "fill-in",
+        "answer": "k[A]^m[B]^n"
+    },
+    {
+        "question": "The rate constant (k) of a reaction depends on which factor?",
+        "type": "fill-in",
+        "answer": "Temperature"
+    },
+    {
+        "question": "The 'order of reaction' refers to the sum of the exponents of the concentration terms in the rate law equation. What is this sum called?",
+        "type": "fill-in",
+        "answer": "Reaction order"
+    },
+    {
+        "question": "What is the term for the change in the concentration of reactants or products per unit time?",
+        "type": "fill-in",
+        "answer": "Reaction rate"
+    },
+    {
+        "question": "The rate law for a chemical reaction is: Rate = k[A]^m[B]^n. The order of reaction with respect to A is determined by the value of which exponent?",
+        "type": "fill-in",
+        "answer": "m"
+    },
+    {
+        "question": "For a second-order reaction, the unit of the rate constant (k) is which of the following?",
+        "type": "fill-in",
+        "answer": "L/mol·s"
+    },
+    {
+        "question": "The rate-determining step in a reaction mechanism is typically the step with the highest what?",
+        "type": "fill-in",
+        "answer": "Activation energy"
+    },
+    {
+        "question": "For a first-order reaction, the rate constant (k) has the units of what?",
+        "type": "fill-in",
+        "answer": "1/s"
+    },
+    {
+        "question": "In a reaction mechanism, the species that temporarily binds to the catalyst surface is called what?",
+        "type": "fill-in",
+        "answer": "Adsorbate"
+    },
+    {
+        "question": "In a PFR, how is the conversion related to space time (τ) for a first-order reaction?",
+        "type": "fill-in",
+        "answer": "Conversion increases exponentially with space time."
+    },
+    {
+        "question": "The time required for half of the reactant to be converted into product in a first-order reaction is known as the what?",
+        "type": "fill-in",
+        "answer": "Half-life"
+    },
+    {
+        "question": "What is the term for the average time a molecule spends in the reactor, especially in a flow reactor?",
+        "type": "fill-in",
+        "answer": "Residence time"
+    },
+    {
+        "question": "The relationship between the rate constant (k) and temperature is given by which equation?",
+        "type": "fill-in",
+        "answer": "Arrhenius equation"
+    },
+    {
+        "question": "For a reversible reaction, the equilibrium constant (K) is related to the Gibbs free energy change (ΔG) by the equation: ΔG = -RT ln(K). What is R in this equation?",
+        "type": "fill-in",
+        "answer": "Gas constant"
+    },
+    {
+        "question": "In a catalytic reaction, the species that is involved in the reaction without being consumed is called a what?",
+        "type": "fill-in",
+        "answer": "Catalyst"
+    },
+    {
+        "question": "The equation that describes the relationship between the rate constant and temperature, and is used to calculate the activation energy, is known as what?",
+        "type": "fill-in",
+        "answer": "Arrhenius equation"
+    },
+    {
+        "question": "The rate constant for a chemical reaction can be affected by both the activation energy and the what?",
+        "type": "fill-in",
+        "answer": "Temperature"
+    },
+    {
+        "question": "The 'space time' in a flow reactor is defined as the ratio of the reactor volume (V) to the what?",
+        "type": "fill-in",
+        "answer": "Volumetric flow rate"
+    },
+    {
+        "question": "What is the term for a chemical species that is produced in one step of a reaction mechanism and consumed in a later step?",
+        "type": "fill-in",
+        "answer": "Intermediate"
+    },
+    {
+        "question": "In a reaction involving a catalyst, what term is used to describe the process by which the reactant binds to the catalyst surface?",
+        "type": "fill-in",
+        "answer": "Adsorption"
+    },
+    {
+        "question": "The change in free energy (ΔG) for a reaction is related to the equilibrium constant (K) by which formula? ΔG = .....",
+        "type": "fill-in",
+        "answer": "-RT ln(K)"
+    },
+    {
+        "question": "What is the unit of the rate constant (k) for a first-order reaction?",
+        "type": "multiple-choice",
+        "options": [
+            "mol/L·s",
+            "1/s",
+            "L/mol·s",
+            "mol/L"
+        ],
+        "answer": "1/s"
+    },
+    {
+        "question": "Which of the following reactors is typically used for a highly exothermic reaction with high heat transfer requirements?",
+        "type": "multiple-choice",
+        "options": [
+            "Batch reactor",
+            "Plug flow reactor (PFR)",
+            "Continuous stirred tank reactor (CSTR)",
+            "Packed bed reactor"
+        ],
+        "answer": "Packed bed reactor"
+    },
+    {
+        "question": "Which factor primarily determines the rate constant (k) in the Arrhenius equation?",
+        "type": "multiple-choice",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Concentration of reactants",
+            "Presence of a catalyst"
+        ],
+        "answer": "Temperature"
+    },
+    {
+        "question": "In a plug flow reactor (PFR), which of the following is assumed regarding the flow of reactants?",
+        "type": "multiple-choice",
+        "options": [
+            "The flow is perfectly mixed",
+            "The reactants follow a plug flow with no mixing in the axial direction",
+            "The flow is laminar",
+            "The flow is turbulent"
+        ],
+        "answer": "The reactants follow a plug flow with no mixing in the axial direction"
+    },
+    {
+        "question": "Which of the following is true for a reaction that follows the Michaelis-Menten mechanism?",
+        "type": "multiple-choice",
+        "options": [
+            "It is a first-order reaction",
+            "It involves enzyme-catalyzed reactions",
+            "It follows a zero-order rate law",
+            "It is a homogeneous reaction"
+        ],
+        "answer": "It involves enzyme-catalyzed reactions"
+    },
+    {
+        "question": "What is the effect of increasing temperature on the reaction rate, according to the Arrhenius law?",
+        "type": "multiple-choice",
+        "options": [
+            "It decreases the rate constant",
+            "It has no effect on the rate constant",
+            "It increases the rate constant",
+            "It decreases the activation energy"
+        ],
+        "answer": "It increases the rate constant"
+    },
+    {
+        "question": "For a reversible reaction, if the rate of the forward reaction is greater than the rate of the reverse reaction, the reaction is said to be what?",
+        "type": "multiple-choice",
+        "options": [
+            "In equilibrium",
+            "At completion",
+            "At steady-state",
+            "Favoring the forward reaction"
+        ],
+        "answer": "Favoring the forward reaction"
+    },
+    {
+        "question": "Which of the following is a characteristic of a heterogeneous reaction?",
+        "type": "multiple-choice",
+        "options": [
+            "The reactants and products are in the same phase",
+            "The reactants and products are in different phases",
+            "It occurs in a single phase",
+            "It involves a catalyst"
+        ],
+        "answer": "The reactants and products are in different phases"
+    },
+    {
+        "question": "What type of reactor is typically used when the reaction rate is highly sensitive to temperature changes?",
+        "type": "multiple-choice",
+        "options": [
+            "CSTR",
+            "PFR",
+            "Batch reactor",
+            "Packed bed reactor"
+        ],
+        "answer": "Batch reactor"
+    },
+    {
+        "question": "In a batch reactor, what happens to the concentration of reactants as time progresses for a first-order reaction?",
+        "type": "multiple-choice",
+        "options": [
+            "It remains constant",
+            "It increases",
+            "It decreases exponentially",
+            "It decreases linearly"
+        ],
+        "answer": "It decreases exponentially"
+    },
+    {
+        "question": "The rate law of a reaction can be determined from the reaction mechanism.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a batch reactor, the reaction rate remains constant during the reaction process.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "For a second-order reaction, the concentration of reactants decreases linearly with time.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The residence time in a reactor is defined as the volume of the reactor divided by the flow rate of the fluid.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a continuous stirred tank reactor (CSTR), the flow pattern is assumed to be ideal and the mixing is perfect.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Increasing the temperature always decreases the reaction rate.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "A homogeneous reaction involves reactants and products in different phases.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "For a reversible reaction, the reaction will always proceed in the direction that produces more products.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Catalysts increase the rate of a reaction by lowering the activation energy.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a plug flow reactor (PFR), the concentration of reactants is the same across the entire cross-section of the reactor.",
+        "type": "true-false",
+        "answer": "false"
+    }
+]

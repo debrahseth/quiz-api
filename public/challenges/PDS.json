@@ -1,0 +1,171 @@
+[
+    {
+        "question": "A process flow diagram (PFD) typically includes the main process equipment, piping, and control systems.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In process simulation, a steady-state model assumes that all variables are constant over time.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A material balance equation is used to account for the accumulation, input, output, and generation/consumption of materials in a process.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a distillation column, the number of theoretical stages required for a given separation depends on the relative volatility of the components.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Process simulation software can only be used for steady-state systems and is not applicable for dynamic systems.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In process design, the term 'degree of freedom' refers to the number of independent variables that can be specified for a process.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is typically not included in a process flow diagram (PFD)?",
+        "type": "multiple-choice",
+        "options": [
+            "Heat exchangers",
+            "Pumps",
+            "Control loops",
+            "Detailed pipe sizes"
+        ],
+        "answer": "Detailed pipe sizes"
+    },
+    {
+        "question": "In the context of process simulation, the term 'block flow diagram' (BFD) represents which of the following?",
+        "type": "multiple-choice",
+        "options": [
+            "A highly detailed flow diagram showing individual pieces of equipment",
+            "A simplified schematic that shows only the main process steps and flows",
+            "A dynamic model of the process used for control systems design",
+            "A diagram showing the mechanical properties of equipment"
+        ],
+        "answer": "A simplified schematic that shows only the main process steps and flows"
+    },
+    {
+        "question": "Which of the following software tools is commonly used for steady-state process simulation?",
+        "type": "multiple-choice",
+        "options": [
+            "Aspen Plus",
+            "MATLAB/Simulink",
+            "HYSYS",
+            "COMSOL Multiphysics"
+        ],
+        "answer": "Aspen Plus"
+    },
+    {
+        "question": "What is the primary purpose of performing sensitivity analysis in process simulation?",
+        "type": "multiple-choice",
+        "options": [
+            "To calculate the total energy consumption of the process",
+            "To determine how sensitive the process is to changes in input variables",
+            "To identify the optimal equipment size",
+            "To simulate different control strategies"
+        ],
+        "answer": "To determine how sensitive the process is to changes in input variables"
+    },
+    {
+        "question": "Which of the following is typically considered during the process design of a heat exchanger?",
+        "type": "multiple-choice",
+        "options": [
+            "Heat transfer coefficients",
+            "Piping material cost",
+            "Energy consumption of pumps",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "The process simulation of a reactor in steady-state involves solving material and energy balances while assuming constant temperatures and pressures. This is typically known as a(n):",
+        "type": "multiple-choice",
+        "options": [
+            "Thermodynamic equilibrium model",
+            "Pseudo-steady-state model",
+            "Dynamic model",
+            "Steady-state model"
+        ],
+        "answer": "Steady-state model"
+    },
+    {
+        "question": "In process design, what is the term used for the graphical representation of a chemical process that includes all equipment, piping, and control devices?",
+        "type": "fill-in",
+        "answer": "Process flow diagram"
+    },
+    {
+        "question": "When designing a heat exchanger, the heat duty (Q) is determined by which of the following?",
+        "type": "fill-in",
+        "answer": "The temperature difference and heat transfer coefficient"
+    },
+    {
+        "question": "In process simulation, what does the term 'mass balance' refer to?",
+        "type": "fill-in",
+        "answer": "Conservation of mass, where input equals output plus any accumulation or generation"
+    },
+    {
+        "question": "What is the term for a diagram that simplifies the representation of the process flow, typically used in the early stages of design to show the major equipment and material flows?",
+        "type": "fill-in",
+        "answer": "Block flow diagram"
+    },
+    {
+        "question": "The 'degree of freedom' of a process refers to the number of independent variables that can be varied. It is calculated as the number of unknowns minus the number of independent equations. What is the degree of freedom for a process with two unknowns and three independent equations?",
+        "type": "fill-in",
+        "answer": "-1"
+    },
+    {
+        "question": "The equation used for performing energy balance calculations in process design is typically the first law of thermodynamics. What is this law commonly referred to as?",
+        "type": "fill-in",
+        "answer": "Conservation of energy"
+    },
+    {
+        "question": "In process design, a simulation model can help determine the optimal operating conditions for a process. What is one of the key parameters that can be optimized in a distillation column design?",
+        "type": "fill-in",
+        "answer": "The number of stages"
+    },
+    {
+        "question": "Which process simulation technique involves solving the material and energy balances using iterative methods to account for the non-linear behavior of the system?",
+        "type": "fill-in",
+        "answer": "Steady-state simulation"
+    },
+    {
+        "question": "Which of the following terms refers to the procedure of determining the optimal sizes and operational conditions of process equipment, with the goal of minimizing costs or maximizing efficiency?",
+        "type": "multiple-choice",
+        "options": [
+            "Process optimization",
+            "Process synthesis",
+            "Process simulation",
+            "Process control"
+        ],
+        "answer": "Process optimization"
+    },
+    {
+        "question": "In the design of chemical reactors, the reaction rate is typically a function of temperature, pressure, and concentration. What law is often used to model the effect of temperature on reaction rate?",
+        "type": "multiple-choice",
+        "options": [
+            "Arrhenius law",
+            "Fick’s law",
+            "Raoult’s law",
+            "Ohm’s law"
+        ],
+        "answer": "Arrhenius law"
+    },
+    {
+        "question": "In a process simulation, which type of model is typically used when the system is subjected to dynamic changes, such as varying inputs or disturbances?",
+        "type": "multiple-choice",
+        "options": [
+            "Steady-state model",
+            "Dynamic model",
+            "Heat transfer model",
+            "Energy balance model"
+        ],
+        "answer": "Dynamic model"
+    }
+]

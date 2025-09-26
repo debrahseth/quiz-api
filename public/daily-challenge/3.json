@@ -1,0 +1,87 @@
+[
+    {
+        "id": "q1",
+        "question": "What is React Native?",
+        "options": [
+            "A framework",
+            "A library",
+            "A database",
+            "An OS"
+        ],
+        "answer": "A framework",
+        "type": "mcq"
+    },
+    {
+        "id": "q2",
+        "question": "What is a component?",
+        "options": [
+            "A function",
+            "A UI element",
+            "A variable",
+            "A file"
+        ],
+        "answer": "A UI element",
+        "type": "mcq"
+    },
+    {
+        "id": "q3",
+        "question": "What is a hook in React?",
+        "options": [
+            "A function",
+            "A class",
+            "An object",
+            "A method"
+        ],
+        "answer": "A function",
+        "type": "mcq"
+    },
+    {
+        "id": "q4",
+        "question": "What is the first law of thermodynamics?",
+        "options": [
+            "Energy conservation",
+            "Entropy increase",
+            "Enthalpy change",
+            "Heat loss"
+        ],
+        "answer": "Energy conservation",
+        "type": "mcq"
+    },
+    {
+        "id": "q5",
+        "question": "Define enthalpy.",
+        "options": [
+            "Internal energy",
+            "Total heat content",
+            "Work done",
+            "Pressure change"
+        ],
+        "answer": "Total heat content",
+        "type": "mcq"
+    },
+    {
+        "id": "q6",
+        "question": "What is Gibbs free energy?",
+        "options": [
+            "Energy available for work",
+            "Kinetic energy",
+            "Potential energy",
+            "Heat energy"
+        ],
+        "answer": "Energy available for work",
+        "type": "mcq"
+    },
+    {
+        "id": "q7",
+        "type": "diagram",
+        "question": "Label the parts of this circuit diagram",
+        "diagram": "http://10.155.34.109:3000/images/logo.png",
+        "options": [
+            "Resistor",
+            "Capacitor",
+            "Inductor",
+            "Diode"
+        ],
+        "answer": "Resistor"
+    }
+]

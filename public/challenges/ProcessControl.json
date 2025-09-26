@@ -1,15 +1,18 @@
 [
     {
+        "id": "q1",
         "question": "A Proportional-Integral-Derivative (PID) controller can provide control actions to both the temperature and flow control systems.",
         "type": "true-false",
         "answer": "true"
     },
     {
+        "id": "q2",
         "question": "In a process control system, increasing the proportional gain (Kp) always leads to faster system response without overshoot.",
         "type": "true-false",
         "answer": "false"
     },
     {
+        "id": "q3",
         "question": "What is the main function of the Integral component in a PID controller?",
         "type": "multiple-choice",
         "options": [
@@ -21,6 +24,7 @@
         "answer": "To eliminate steady-state error"
     },
     {
+        "id": "q4",
         "question": "Which of the following is NOT a type of feedback control strategy?",
         "type": "multiple-choice",
         "options": [
@@ -32,21 +36,25 @@
         "answer": "Open-loop control"
     },
     {
+        "id": "q5",
         "question": "Given a process with a time constant of 5 seconds, if the controller's proportional gain (Kp) is 2, calculate the ultimate gain (Ku) for the system assuming a critical oscillation condition.",
         "type": "fill-in",
         "answer": "2"
     },
     {
+        "id": "q6",
         "question": "A process has a transfer function of G(s) = 1/(s+1). If the desired closed-loop bandwidth is 10 rad/s, what should the controller's proportional gain (Kp) be to achieve this bandwidth? Assume no integral or derivative action.",
         "type": "fill-in",
         "answer": "10"
     },
     {
+        "id": "q7",
         "question": "If the open-loop transfer function of a system is given by G(s) = 3/(s+2), and the system has a time delay of 1 second, calculate the system's time constant (τ).",
         "type": "fill-in",
         "answer": "0.50"
     },
     {
+        "id": "q8",
         "question": "What is the primary purpose of a Cascade Control system?",
         "type": "multiple-choice",
         "options": [
@@ -58,6 +66,7 @@
         "answer": "To reduce the effect of disturbances on the main controlled variable"
     },
     {
+        "id": "q9",
         "question": "Which of the following is an advantage of a Derivative action in PID control?",
         "type": "multiple-choice",
         "options": [
@@ -69,26 +78,31 @@
         "answer": "Helps to anticipate future errors and prevent overshoot"
     },
     {
+        "id": "q10",
         "question": "A feedforward controller adjusts the control input based on a disturbance before the disturbance affects the process variable.",
         "type": "true-false",
         "answer": "true"
     },
     {
+        "id": "q11",
         "question": "A higher derivative gain (Kd) in a PID controller generally increases the noise sensitivity of the system.",
         "type": "true-false",
         "answer": "true"
     },
     {
+        "id": "q12",
         "question": "For a first-order process with a time constant of 4 minutes, calculate the system's response after 5 minutes to a step change in input. Use the equation: C(t) = 1 - exp(-t/τ), where t is time and τ is the time constant.",
         "type": "fill-in",
         "answer": "0.57"
     },
     {
+        "id": "q13",
         "question": "A process has a transfer function G(s) = 5/(s+3). Calculate the phase margin of the open-loop transfer function at the frequency where the gain is unity.",
         "type": "fill-in",
-        "answer": "56.3°"
+        "answer": "56.3"
     },
     {
+        "id": "q14",
         "question": "Which of the following terms is commonly associated with the Ziegler-Nichols tuning method for PID controllers?",
         "type": "multiple-choice",
         "options": [
@@ -100,6 +114,7 @@
         "answer": "Ultimate gain and ultimate period"
     },
     {
+        "id": "q15",
         "question": "In a process control system, what is the primary role of a 'setpoint'?",
         "type": "multiple-choice",
         "options": [
@@ -111,11 +126,13 @@
         "answer": "It is the desired value for the process variable."
     },
     {
+        "id": "q16",
         "question": "A system with a higher proportional gain (Kp) will always have better stability in terms of overshoot and settling time.",
         "type": "true-false",
         "answer": "false"
     },
     {
+        "id": "q17",
         "type": "diagram",
         "question": "Label the parts of this circuit diagram",
         "diagram": "http://10.155.34.109:3000/images/logo.png",

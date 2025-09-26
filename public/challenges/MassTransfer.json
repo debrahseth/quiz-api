@@ -1,0 +1,174 @@
+[
+    {
+        "question": "Which of the following is the primary driving force for mass transfer in diffusion?",
+        "type": "multiple-choice",
+        "options": [
+            "Concentration gradient",
+            "Temperature gradient",
+            "Pressure gradient",
+            "Velocity gradient"
+        ],
+        "answer": "Concentration gradient"
+    },
+    {
+        "question": "In mass transfer, what does Fick's first law describe?",
+        "type": "fill-in",
+        "answer": "The rate of diffusion"
+    },
+    {
+        "question": "Is mass transfer always associated with a concentration gradient?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is the unit of mass transfer coefficient (k) in Fick's law?",
+        "type": "multiple-choice",
+        "options": [
+            "m/s",
+            "mol/m²·s",
+            "kg/m·s",
+            "m²/s"
+        ],
+        "answer": "mol/m²·s"
+    },
+    {
+        "question": "What is the term for the process where mass moves due to molecular motion from high to low concentration?",
+        "type": "multiple-choice",
+        "options": [
+            "Convection",
+            "Advection",
+            "Diffusion",
+            "Filtration"
+        ],
+        "answer": "Diffusion"
+    },
+    {
+        "question": "Which of the following is a method of mass transfer where a substance is transported due to bulk fluid motion?",
+        "type": "multiple-choice",
+        "options": [
+            "Diffusion",
+            "Convection",
+            "Thermal conduction",
+            "Capillary action"
+        ],
+        "answer": "Convection"
+    },
+    {
+        "question": "What does the Sherwood number (Sh) represent in mass transfer?",
+        "type": "fill-in",
+        "answer": "The ratio of convective to diffusive mass transfer"
+    },
+    {
+        "question": "Which of the following is the dimensionless group used in the correlation of mass transfer in laminar flow?",
+        "type": "multiple-choice",
+        "options": [
+            "Reynolds number",
+            "Prandtl number",
+            "Schmidt number",
+            "Froude number"
+        ],
+        "answer": "Schmidt number"
+    },
+    {
+        "question": "Which of the following is not typically a factor affecting the rate of mass transfer?",
+        "type": "multiple-choice",
+        "options": [
+            "Concentration gradient",
+            "Temperature",
+            "Velocity of fluid",
+            "Surface tension"
+        ],
+        "answer": "Surface tension"
+    },
+    {
+        "question": "The process where a gas dissolves into a liquid is often governed by which law?",
+        "type": "fill-in",
+        "answer": "Henry's law"
+    },
+    {
+        "question": "In the context of mass transfer, what does the term 'mass transfer coefficient' refer to?",
+        "type": "fill-in",
+        "answer": "A constant relating the rate of mass transfer to the concentration gradient"
+    },
+    {
+        "question": "In which of the following scenarios is mass transfer driven primarily by diffusion?",
+        "type": "multiple-choice",
+        "options": [
+            "Heat exchanger",
+            "Gas absorption",
+            "Permeation through membranes",
+            "Forced convection"
+        ],
+        "answer": "Permeation through membranes"
+    },
+    {
+        "question": "What is the main difference between molecular diffusion and turbulent diffusion?",
+        "type": "fill-in",
+        "answer": "Molecular diffusion is random motion, while turbulent diffusion is caused by fluid turbulence."
+    },
+    {
+        "question": "Which of the following is an example of a mass transfer process involving both diffusion and convection?",
+        "type": "multiple-choice",
+        "options": [
+            "Gas diffusion through air",
+            "Diffusion of a solute in a liquid",
+            "Evaporation of a solvent",
+            "Absorption of gases in a liquid"
+        ],
+        "answer": "Absorption of gases in a liquid"
+    },
+    {
+        "question": "In a countercurrent exchange system, what happens to the concentration gradient over the length of the system?",
+        "type": "multiple-choice",
+        "options": [
+            "It stays constant",
+            "It increases",
+            "It decreases",
+            "It oscillates"
+        ],
+        "answer": "It decreases"
+    },
+    {
+        "question": "Which of the following is the key factor affecting the mass transfer rate in a packed column for gas absorption?",
+        "type": "multiple-choice",
+        "options": [
+            "Size of the packing",
+            "Fluid velocity",
+            "Gas phase diffusivity",
+            "Liquid phase diffusivity"
+        ],
+        "answer": "Size of the packing"
+    },
+    {
+        "question": "What does the term 'Knudsen diffusion' refer to in mass transfer?",
+        "type": "fill-in",
+        "answer": "Diffusion in the free molecular regime, where molecule movement dominates"
+    },
+    {
+        "question": "Which of the following is a common dimensionless number used in mass transfer to characterize the relative importance of diffusion to convection?",
+        "type": "multiple-choice",
+        "options": [
+            "Péclet number",
+            "Schmidt number",
+            "Reynolds number",
+            "Nusselt number"
+        ],
+        "answer": "Péclet number"
+    },
+    {
+        "question": "In the context of mass transfer, what does the term 'boundary layer' refer to?",
+        "type": "fill-in",
+        "answer": "A thin region near a surface where concentration or velocity changes"
+    },
+    {
+        "question": "Which of the following is a key characteristic of turbulent mass transfer?",
+        "type": "multiple-choice",
+        "options": [
+            "High concentration gradients",
+            "Increased mixing and dispersion",
+            "Linear velocity profile",
+            "Constant diffusion coefficient"
+        ],
+        "answer": "Increased mixing and dispersion"
+    }
+]

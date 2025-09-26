@@ -1,0 +1,273 @@
+[
+    {
+        "question": "What is the enthalpy change (ΔH) for the combustion of 1 mole of methane (CH4) given that the enthalpy of formation of methane is -74.8 kJ/mol and the enthalpy of formation of CO2 and H2O are -393.5 kJ/mol and -241.8 kJ/mol, respectively?",
+        "type": "fill-in",
+        "answer": "-890.3"
+    },
+    {
+        "question": "If the boiling point of water is 100°C at standard atmospheric pressure, is this statement true or false: The boiling point of water increases as atmospheric pressure increases?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the specific heat capacity (Cp) of a substance if 500 J of heat is required to raise the temperature of 50 g of the substance by 10°C?",
+        "type": "fill-in",
+        "answer": "1.0"
+    },
+    {
+        "question": "The specific heat capacity of a substance is 3.5 J/g°C. If 200 grams of the substance are heated from 10°C to 50°C, how much heat is required?",
+        "type": "fill-in",
+        "answer": "14000J"
+    },
+    {
+        "question": "What is the term for the energy required to change 1 mole of a substance from liquid to gas at its boiling point?",
+        "type": "multiple-choice",
+        "options": [
+            "Latent heat of fusion",
+            "Latent heat of vaporization",
+            "Specific heat",
+            "Sensible heat"
+        ],
+        "answer": "Latent heat of vaporization"
+    },
+    {
+        "question": "For an ideal gas, the internal energy depends only on temperature. Is this statement true or false?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If 500 J of heat is added to a system, and the temperature of 1 kg of water rises by 2°C, what is the specific heat capacity of water?",
+        "type": "fill-in",
+        "answer": "250"
+    },
+    {
+        "question": "A gas expands isothermally from 1 atm to 2 atm at a constant temperature of 300 K. What is the change in internal energy (ΔU) for an ideal gas?",
+        "type": "fill-in",
+        "answer": "0"
+    },
+    {
+        "question": "The heat required to change the phase of a substance is called the latent heat. Is the following statement true or false? The latent heat of fusion is always greater than the latent heat of vaporization.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "For an ideal gas, what is the relationship between pressure and volume at constant temperature?",
+        "type": "fill-in",
+        "answer": "Boyle's Law: P1V1 = P2V2"
+    },
+    {
+        "question": "If the enthalpy change for a chemical reaction is -100 kJ/mol, and 2 moles of reactant are used, what is the total heat released during the reaction?",
+        "type": "fill-in",
+        "answer": "-200"
+    },
+    {
+        "question": "In a closed system, if the work done by the system is 500 J and 200 J of heat is added to the system, what is the change in internal energy?",
+        "type": "fill-in",
+        "answer": "300"
+    },
+    {
+        "question": "The enthalpy of vaporization for water is 2260 kJ/kg. How much heat is required to vaporize 2 kg of water at 100°C?",
+        "type": "fill-in",
+        "answer": "4520"
+    },
+    {
+        "question": "Is this statement true or false? The first law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the work done by an ideal gas during an isothermal expansion if the initial volume is 2 L, final volume is 5 L, and the pressure is constant at 1 atm?",
+        "type": "fill-in",
+        "answer": "223.90"
+    },
+    {
+        "question": "A steam turbine generates 500 kJ of work, while the heat input to the turbine is 1000 kJ. What is the efficiency of the turbine?",
+        "type": "fill-in",
+        "answer": "50"
+    },
+    {
+        "question": "If a gas undergoes an adiabatic expansion, what is the heat exchanged by the gas?",
+        "type": "fill-in",
+        "answer": "0"
+    },
+    {
+        "question": "The heat capacity of a substance is 2.5 J/g°C, and the mass of the substance is 200 g. How much heat is required to raise the temperature by 5°C?",
+        "type": "fill-in",
+        "answer": "2500"
+    },
+    {
+        "question": "Is the following statement true? The temperature of an ideal gas is directly proportional to the average kinetic energy of the molecules.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the work done on a gas during an isochoric process if the volume remains constant and 300 J of heat is added?",
+        "type": "fill-in",
+        "answer": "0"
+    },
+    {
+        "question": "The entropy change of an ideal gas is given by the equation ΔS = nR ln(Vf / Vi), where n is the number of moles, R is the gas constant, and Vi and Vf are the initial and final volumes, respectively. If the initial volume is 1 L and the final volume is 3 L, and n = 1 mole, calculate the change in entropy.",
+        "type": "fill-in",
+        "answer": "8.31"
+    },
+    {
+        "question": "If the heat of combustion of methane (CH4) is -890 kJ/mol, how much heat is released when 0.5 moles of methane are burned?",
+        "type": "fill-in",
+        "answer": "-445"
+    },
+    {
+        "question": "The internal energy of a system increases when heat is added to it. Is this statement true or false?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The chemical reaction A + B → C is assumed to be complete. If 3 moles of A and 4 moles of B are mixed, the limiting reactant is A. Is this statement true or false?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the molar flow rate of a stream containing 2 moles of A per minute if the stream flows at 5 L/min and the molar volume of A is 22.4 L/mol?",
+        "type": "fill-in",
+        "answer": "0.45"
+    },
+    {
+        "question": "If the heat capacity of a substance is 3.5 J/g°C and the mass is 100 g, how much heat is required to raise the temperature by 10°C?",
+        "type": "fill-in",
+        "answer": "350"
+    },
+    {
+        "question": "For an isothermal process, the temperature remains constant. Which of the following is true about the relationship between pressure and volume in this process?",
+        "type": "multiple-choice",
+        "options": [
+            "Pressure increases as volume increases.",
+            "Pressure decreases as volume increases.",
+            "Pressure remains constant regardless of volume.",
+            "Volume decreases as pressure decreases."
+        ],
+        "answer": "Pressure decreases as volume increases."
+    },
+    {
+        "question": "If 3 kg of water is heated from 25°C to 75°C and the specific heat capacity of water is 4.18 kJ/kg°C, how much heat is required?",
+        "type": "fill-in",
+        "answer": "627"
+    },
+    {
+        "question": "A gas undergoes an isobaric process. Is the work done on the system equal to the pressure times the change in volume?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The change in internal energy of a system is 200 kJ. If the system absorbs 100 kJ of heat and does 50 kJ of work, what is the change in the system's internal energy?",
+        "type": "fill-in",
+        "answer": "200"
+    },
+    {
+        "question": "Which of the following best describes the behavior of an ideal gas in an isochoric process?",
+        "type": "multiple-choice",
+        "options": [
+            "The pressure remains constant.",
+            "The volume remains constant.",
+            "The temperature remains constant.",
+            "The internal energy remains constant."
+        ],
+        "answer": "The volume remains constant."
+    },
+    {
+        "question": "If the molecular weight of a gas is 28 g/mol, and the mass flow rate is 140 g/min, what is the molar flow rate of the gas?",
+        "type": "fill-in",
+        "answer": "5"
+    },
+    {
+        "question": "The total energy required to heat 1000 kg of a material from 20°C to 100°C with a specific heat capacity of 0.5 kJ/kg°C is: ",
+        "type": "fill-in",
+        "answer": "40000"
+    },
+    {
+        "question": "In a chemical process, the rate of reaction doubles when the temperature increases by 10°C. Is this a typical behavior observed in chemical kinetics?",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the air-fuel ratio in a combustion process is 15:1, and the amount of fuel burned is 10 kg, how much air is required for combustion?",
+        "type": "fill-in",
+        "answer": "150 kg"
+    },
+    {
+        "question": "What is the volume of a gas in a chemical reaction if the molar volume at STP is 22.4 L/mol and the number of moles of the gas is 0.5?",
+        "type": "fill-in",
+        "answer": "11.20"
+    },
+    {
+        "question": "The heat required to vaporize 1 kg of water at 100°C is 2260 kJ. If 5 kg of water is vaporized, how much heat is required?",
+        "type": "fill-in",
+        "answer": "11300"
+    },
+    {
+        "question": "The reactor operates at 80% conversion. If the inlet stream contains 100 mol/h of reactant, what is the outlet stream's composition?",
+        "type": "fill-in",
+        "answer": "80 mol/h of product"
+    },
+    {
+        "question": "If 2 moles of A react with 3 moles of B to form C in a chemical reaction, what is the stoichiometric ratio of A to B?",
+        "type": "fill-in",
+        "answer": "2:3"
+    },
+    {
+        "question": "For a steady-state material balance on a batch reactor, if the inlet flow is 1000 mol/h and the outlet flow is 800 mol/h, what is the accumulation in the reactor?",
+        "type": "fill-in",
+        "answer": "200"
+    },
+    {
+        "question": "The heat of reaction is exothermic. If the reactants' enthalpy is 500 kJ/mol and the products' enthalpy is 200 kJ/mol, what is the heat released during the reaction?",
+        "type": "fill-in",
+        "answer": "300"
+    },
+    {
+        "question": "Which of the following is a method for determining the heat capacity of a substance?",
+        "type": "multiple-choice",
+        "options": [
+            "Bomb calorimeter",
+            "Adiabatic calorimeter",
+            "Thermocouple",
+            "Thermistor"
+        ],
+        "answer": "Bomb calorimeter"
+    },
+    {
+        "question": "For an isobaric process, if the temperature of a gas increases, what happens to its volume?",
+        "type": "multiple-choice",
+        "options": [
+            "The volume decreases.",
+            "The volume increases.",
+            "The volume stays constant.",
+            "The volume fluctuates."
+        ],
+        "answer": "The volume increases."
+    },
+    {
+        "question": "What is the molar flow rate of a gas in a pipe if the velocity of the gas is 5 m/s and the pipe diameter is 0.1 m?",
+        "type": "fill-in",
+        "answer": "1.96"
+    },
+    {
+        "question": "What is the molar flow rate of a gas in a pipeline if the gas has a density of 1.2 kg/m³ and the pipeline has a flow rate of 1000 m³/h? (Molecular weight of the gas = 28 g/mol)",
+        "type": "multiple-choice",
+        "options": [
+            "36 mol/h",
+            "42 mol/h",
+            "45 mol/h",
+            "50 mol/h"
+        ],
+        "answer": "42 mol/h"
+    },
+    {
+        "question": "A batch reactor has 100 kg of reactant A, and it is 90% converted after 3 hours. What is the amount of product formed?",
+        "type": "fill-in",
+        "answer": "90 kg"
+    },
+    {
+        "question": "The work done by a gas during an isothermal expansion is the integral of the pressure with respect to volume. Is this statement true?",
+        "type": "true-false",
+        "answer": "true"
+    }
+]

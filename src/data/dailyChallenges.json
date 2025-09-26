@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "title": "React Native Basics",
+        "description": "Test your knowledge on React Native fundamentals with this daily challenge quiz.",
+        "program": "Chemical Engineering",
+        "difficulty": "Medium",
+        "level": "Level 100",
+        "semester": "Semester 2"
+    },
+    {
+        "id": "2",
+        "title": "Chemical Engineering Thermodynamics",
+        "description": "Daily challenge on thermodynamics principles in chemical engineering.",
+        "program": "Chemical Engineering",
+        "difficulty": "Medium",
+        "level": "Level 100",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "3",
+        "title": "Physics Mechanics Quiz",
+        "description": "Test your mechanics knowledge with this quick challenge.",
+        "program": "Chemical Engineering",
+        "difficulty": "Medium",
+        "level": "Level 300",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "4",
+        "title": "Biology Cell Structures",
+        "description": "Challenge yourself on cell structure and function questions.",
+        "program": "Chemical Engineering",
+        "difficulty": "Medium",
+        "level": "Level 300",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "5",
+        "title": "History World Wars Quiz",
+        "description": "Daily challenge on World War I and II events and dates.",
+        "program": "Chemical Engineering",
+        "difficulty": "Medium",
+        "level": "Level 300",
+        "semester": "Semester 1"
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "question": "The first law of thermodynamics states that energy cannot be created or destroyed, only transformed.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The second law of thermodynamics states that the entropy of an isolated system always increases over time.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The ideal gas law is used to describe the behavior of gases under varying temperature and pressure conditions in industrial chemical processes.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In industrial chemical processes, mass balance involves accounting for the mass entering and leaving a system.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The reaction rate constant (k) increases with increasing temperature according to the Arrhenius equation.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is commonly used to describe fluid flow in pipes in industrial chemical processes?",
+        "type": "multiple-choice",
+        "options": [
+            "Darcy-Weisbach equation",
+            "Navier-Stokes equation",
+            "Fick's law",
+            "Continuity equation"
+        ],
+        "answer": "Darcy-Weisbach equation"
+    },
+    {
+        "question": "Which dimensionless number is used to describe the relative importance of convective to conductive heat transfer in industrial processes?",
+        "type": "multiple-choice",
+        "options": [
+            "Reynolds number",
+            "Prandtl number",
+            "Peclet number",
+            "Nusselt number"
+        ],
+        "answer": "Peclet number"
+    },
+    {
+        "question": "What is the purpose of a chemical process flow diagram (PFD) in industrial chemical processes?",
+        "type": "multiple-choice",
+        "options": [
+            "To calculate the mass balance for each unit operation",
+            "To show the layout of the equipment in a process",
+            "To provide details about the piping design",
+            "To visualize the flow of materials through a process"
+        ],
+        "answer": "To visualize the flow of materials through a process"
+    },
+    {
+        "question": "Which of the following is a key factor in the design of heat exchangers used in industrial chemical processes?",
+        "type": "multiple-choice",
+        "options": [
+            "Thermal conductivity",
+            "Flow arrangement (countercurrent or parallel flow)",
+            "Surface area for heat transfer",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "In industrial chemical processes, the reaction rate depends on temperature and concentration. Which equation describes this dependency?",
+        "type": "multiple-choice",
+        "options": [
+            "Le Chatelier's Principle",
+            "Arrhenius equation",
+            "Hess's Law",
+            "Raoult’s Law"
+        ],
+        "answer": "Arrhenius equation"
+    },
+    {
+        "question": "The concept of partial pressure is used in industrial chemical processes. It refers to the pressure exerted by each gas in a mixture as if it occupied the entire volume alone.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The conversion of reactants to products in a chemical process is directly related to the yield of the process.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a Continuous Stirred-Tank Reactor (CSTR), the residence time is the time that a fluid element spends in the reactor.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In industrial chemical processes, Bernoulli’s equation is commonly used to analyze steady, incompressible flow along a streamline.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The efficiency of a distillation column depends on the number of theoretical stages and the relative volatility of the components being separated.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In industrial processes, the Reynolds number (Re) helps to predict whether the flow will be laminar or turbulent.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The Nusselt number is a dimensionless number that represents the ratio of convective to conductive heat transfer in industrial heat exchangers.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following processes is used to separate components in a mixture based on differences in their solubility in a solvent?",
+        "type": "multiple-choice",
+        "options": [
+            "Liquid-liquid extraction",
+            "Distillation",
+            "Absorption",
+            "Filtration"
+        ],
+        "answer": "Liquid-liquid extraction"
+    },
+    {
+        "question": "In industrial chemical processes, the ideal gas law can be used as an approximation under conditions of low pressure and high temperature.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The efficiency of a chemical process is often measured by the yield, which is the ratio of the actual product to the theoretical product.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In industrial chemical processes, conversion refers to the fraction of reactant that has been transformed into product.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a continuous chemical process, the material balance involves accounting for inputs, outputs, and accumulation of mass in the system.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is commonly used to calculate the pressure drop in a fluidized bed?",
+        "type": "multiple-choice",
+        "options": [
+            "Ergun equation",
+            "Darcy-Weisbach equation",
+            "Reynolds equation",
+            "Navier-Stokes equation"
+        ],
+        "answer": "Ergun equation"
+    },
+    {
+        "question": "The Arrhenius equation describes the relationship between the rate constant and the activation energy of a reaction.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "To achieve a separation with a relative volatility of 2 for two components in a distillation column, the number of theoretical stages required is 5.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a distillation column, the number of theoretical stages required for a separation with a relative volatility of 2 is given by the equation: log(2) / log(1.5).",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A pipe has a diameter of 0.2 m and a flow velocity of 2 m/s. What is the Reynolds number for water at 20°C (ρ = 1000 kg/m³, μ = 0.001 Pa·s)?",
+        "type": "multiple-choice",
+        "options": [
+            "Re = 40000",
+            "Re = 50000",
+            "Re = 20000",
+            "Re = 100000"
+        ],
+        "answer": "Re = 40000"
+    },
+    {
+        "question": "The formula to calculate the Reynolds number in fluid dynamics is Re = (ρ * V * D) / μ.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The heat transfer rate (Q) through a metal plate can be calculated using the formula Q = k * A * ΔT, where k is the thermal conductivity, A is the area, and ΔT is the temperature difference.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the thermal conductivity (k) is 50 W/m·K, the area (A) is 10 m², and the temperature difference (ΔT) is 50°C, what is the heat transfer rate (Q)?",
+        "type": "multiple-choice",
+        "options": [
+            "Q = 25000 W",
+            "Q = 5000 W",
+            "Q = 10000 W",
+            "Q = 20000 W"
+        ],
+        "answer": "Q = 25000 W"
+    },
+    {
+        "question": "In a solvent extraction process, if 100 liters of solvent are used and the concentration of solute in the solvent is 5 mol/L, the solute extracted is 500 mol.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the formula to calculate the amount of solute extracted in a solvent extraction process? Solute extracted = C × V, where C is concentration and V is volume.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If a reaction has a rate constant (k) of 0.1 L/mol·min and the concentration of the reactant is 2 mol/L, the rate of the reaction is 0.2 mol/L·min.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If a reaction has a rate constant (k) of 0.1 L/mol·min and the concentration of the reactant is 2 mol/L, the rate of the reaction can be calculated by multiplying k by the concentration.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A gas occupies 20 liters at a pressure of 2 atm and a temperature of 300 K. Using the ideal gas law, what will be the volume of the gas at 1 atm and 400 K?",
+        "type": "multiple-choice",
+        "options": [
+            "V = 25 liters",
+            "V = 30 liters",
+            "V = 35 liters",
+            "V = 40 liters"
+        ],
+        "answer": "V = 30 liters"
+    },
+    {
+        "question": "In a chemical reactor, if the input is 100 kg/s and the output is 60 kg/s, the accumulation of mass in the system is 40 kg/s.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The formula for calculating the accumulation of mass in a system is Accumulation = Input - Output.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the heat duty (Q) in a heat exchanger is 5000 W, the temperature difference (ΔT) is 100°C, and the heat transfer coefficient (U) is 200 W/m²·K, the required surface area (A) is 0.25 m².",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The formula to calculate the required surface area (A) in a heat exchanger is A = Q / (U * ΔT).",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "If the heat duty (Q) is 5000 W, the heat transfer coefficient (U) is 200 W/m²·K, and the temperature difference (ΔT) is 100°C, what is the required surface area (A)?",
+        "type": "multiple-choice",
+        "options": [
+            "A = 0.25 m²",
+            "A = 0.5 m²",
+            "A = 1 m²",
+            "A = 2 m²"
+        ],
+        "answer": "A = 0.25 m²"
+    }
+]

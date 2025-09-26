@@ -1,0 +1,104 @@
+[
+    {
+        "question": "In a distillation column, the more volatile component will accumulate at the top of the column.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The efficiency of a distillation column increases as the number of theoretical stages decreases.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In filtration, the size of the pores in the filter determines the maximum particle size that can pass through.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a liquid-liquid extraction process, the solvent and solute are always immiscible.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following methods is most commonly used to separate solid particles from liquids?",
+        "type": "multiple-choice",
+        "options": [
+            "Distillation",
+            "Filtration",
+            "Adsorption",
+            "Membrane separation"
+        ],
+        "answer": "Filtration"
+    },
+    {
+        "question": "Which of the following separation techniques is most suitable for separating gases from a mixture based on differences in molecular size?",
+        "type": "multiple-choice",
+        "options": [
+            "Distillation",
+            "Cryogenic separation",
+            "Adsorption",
+            "Membrane filtration"
+        ],
+        "answer": "Membrane filtration"
+    },
+    {
+        "question": "In a packed distillation column, the packing material is used to provide a large surface area for vapor-liquid contact.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a batch distillation process, the initial concentration of component A is 80%, and the distillation continues until the concentration reaches 40%. If the volume of the feed is 500 L, calculate the volume of distillate collected.",
+        "type": "fill-in",
+        "answer": "250L"
+    },
+    {
+        "question": "In a centrifuge, the heavier components of a mixture are forced to the top by the centrifugal force.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In an absorption process, a gas is absorbed by a liquid to separate the components based on solubility.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A major factor that influences the rate of filtration is the pressure drop across the filter medium.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The effectiveness of membrane separation processes increases as the pore size of the membrane decreases.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Calculate the amount of heat required to evaporate 200 g of water at 100°C. The latent heat of vaporization of water is 2260 J/g.",
+        "type": "fill-in",
+        "answer": "452000J"
+    },
+    {
+        "question": "A liquid-liquid extraction process uses 50 L of solvent to extract 30 g of solute from a 200 L feed. Calculate the concentration of solute in the solvent phase if the distribution coefficient is 4.",
+        "type": "fill-in",
+        "answer": "120g"
+    },
+    {
+        "question": "In a distillation process, the feed rate is 1000 L/h, and the reflux ratio is 3. If the distillation column produces 500 L/h of distillate, calculate the reboiler duty (assuming no losses).",
+        "type": "fill-in",
+        "answer": "1500 L/h"
+    },
+    {
+        "question": "In an absorption tower, 1000 m³/h of air containing 2% CO₂ by volume is passed through a scrubbing solution. If the CO₂ concentration in the exhaust gas is reduced to 0.5%, calculate the amount of CO₂ removed by the scrubbing solution.",
+        "type": "fill-in",
+        "answer": "15 m^3/h"
+    },
+    {
+        "question": "In a membrane filtration system, the cross-flow velocity is 2 m/s, and the transmembrane pressure is 2 bar. If the membrane surface area is 50 m² and the permeate flux is 30 L/m²·h, calculate the total permeate flow rate.",
+        "type": "fill-in",
+        "answer": "1500 L/h"
+    },
+    {
+        "question": "A centrifuge is used to separate two liquids with densities of 1.2 g/mL and 0.8 g/mL. If the centrifugal force is 3000 g, calculate the separation factor.",
+        "type": "fill-in",
+        "answer": "3"
+    }
+]

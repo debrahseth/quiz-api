@@ -1,0 +1,212 @@
+[
+    {
+        "question": "The Reynolds number (Re) is used to predict whether a fluid flow is laminar or turbulent.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The heat capacity of a substance increases with increasing temperature.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In a perfect mixing tank, the residence time of the fluid is the same for all particles.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "The molar flow rate is always constant in a steady-state process.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In a distillation column, the number of stages required for separation decreases with an increase in the relative volatility of the components.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the main objective of a heat exchanger in chemical engineering?",
+        "type": "multiple-choice",
+        "options": [
+            "a) To increase temperature of the fluid",
+            "b) To transfer heat between two or more fluids",
+            "c) To mix fluids",
+            "d) To separate components of a mixture"
+        ],
+        "answer": "b) To transfer heat between two or more fluids"
+    },
+    {
+        "question": "What is the unit of the specific gas constant, R, in the ideal gas law?",
+        "type": "multiple-choice",
+        "options": [
+            "a) Joules per mole per Kelvin (J/mol·K)",
+            "b) Atmospheres per liter per mole (atm·L/mol·K)",
+            "c) Liters per mole per second (L/mol·s)",
+            "d) Kelvin (K)"
+        ],
+        "answer": "a) Joules per mole per Kelvin (J/mol·K)"
+    },
+    {
+        "question": "In a chemical reactor, the rate of reaction increases with:",
+        "type": "multiple-choice",
+        "options": [
+            "a) Increase in temperature",
+            "b) Decrease in pressure",
+            "c) Increase in concentration of reactants",
+            "d) Both a) and c)"
+        ],
+        "answer": "d) Both a) and c)"
+    },
+    {
+        "question": "Which of the following is used to determine the efficiency of a heat exchanger?",
+        "type": "multiple-choice",
+        "options": [
+            "a) Coefficient of performance (COP)",
+            "b) Effectiveness",
+            "c) Energy balance",
+            "d) Reynolds number"
+        ],
+        "answer": "b) Effectiveness"
+    },
+    {
+        "question": "What is the primary function of a chemical pump in a process plant?",
+        "type": "multiple-choice",
+        "options": [
+            "a) To separate solids from liquids",
+            "b) To transport fluids",
+            "c) To cool down fluids",
+            "d) To increase pressure in a fluid stream"
+        ],
+        "answer": "b) To transport fluids"
+    },
+    {
+        "question": "A chemical reaction occurs with a heat of reaction of 100 kJ/mol. If 2 moles of reactant are consumed in the reaction, what is the total heat released?",
+        "type": "fill-in",
+        "answer": "200"
+    },
+    {
+        "question": "Calculate the molar flow rate of a fluid if 10 moles of gas are produced in 5 minutes.",
+        "type": "fill-in",
+        "answer": "2"
+    },
+    {
+        "question": "If the ideal gas law equation PV = nRT is used, calculate the pressure (P) of 0.5 moles of an ideal gas at 300 K in a 10-liter container. (Assume R = 0.0821 L·atm/(mol·K))",
+        "type": "fill-in",
+        "answer": "1.23"
+    },
+    {
+        "question": "A liquid flow of 10 L/min is heated from 20°C to 100°C. If the specific heat capacity of the liquid is 4.2 J/g°C, calculate the total energy required (in joules) for this temperature change.",
+        "type": "fill-in",
+        "answer": "3360000"
+    },
+    {
+        "question": "Calculate the residence time of a fluid in a continuous stirred tank reactor (CSTR) if the volumetric flow rate is 0.5 L/min and the reactor volume is 2 L.",
+        "type": "fill-in",
+        "answer": "4"
+    },
+    {
+        "question": "The principle of conservation of mass states that mass can be created or destroyed in a chemical process.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In a plug flow reactor (PFR), the fluid moves in a uniform flow pattern along the reactor length.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In the calculation of heat exchangers, the log mean temperature difference (LMTD) is used to account for temperature variations between the hot and cold streams.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A batch reactor operates in a continuous fashion with constant input and output streams.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The activity of a chemical species in a mixture is defined as the ratio of its partial pressure to its standard state pressure.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is NOT an example of a unit operation in chemical engineering?",
+        "type": "multiple-choice",
+        "options": [
+            "a) Distillation",
+            "b) Filtration",
+            "c) Heat exchange",
+            "d) Combustion reaction"
+        ],
+        "answer": "d) Combustion reaction"
+    },
+    {
+        "question": "In chemical reaction engineering, the rate of reaction generally depends on all of the following EXCEPT:",
+        "type": "multiple-choice",
+        "options": [
+            "a) Temperature",
+            "b) Pressure",
+            "c) Catalyst",
+            "d) Mass of the product formed"
+        ],
+        "answer": "d) Mass of the product formed"
+    },
+    {
+        "question": "Which of the following is a common use for a packed bed reactor?",
+        "type": "multiple-choice",
+        "options": [
+            "a) Polymerization reactions",
+            "b) Catalytic hydrogenation reactions",
+            "c) Crystallization processes",
+            "d) Liquid-liquid extraction"
+        ],
+        "answer": "b) Catalytic hydrogenation reactions"
+    },
+    {
+        "question": "What does the \"turnover number\" of an enzyme represent in chemical engineering?",
+        "type": "multiple-choice",
+        "options": [
+            "a) The number of product molecules produced per enzyme molecule per second",
+            "b) The number of substrates consumed per enzyme molecule per second",
+            "c) The total number of enzyme molecules in a system",
+            "d) The total energy required to activate the enzyme"
+        ],
+        "answer": "a) The number of product molecules produced per enzyme molecule per second"
+    },
+    {
+        "question": "The rate of heat transfer in a heat exchanger can be increased by:",
+        "type": "multiple-choice",
+        "options": [
+            "a) Decreasing the flow velocity",
+            "b) Increasing the temperature difference",
+            "c) Reducing the heat transfer area",
+            "d) Decreasing the fluid velocity"
+        ],
+        "answer": "b) Increasing the temperature difference"
+    },
+    {
+        "question": "A chemical reaction occurs in a closed system with an initial temperature of 300 K. The reaction is exothermic and releases 150 kJ of energy. If the system absorbs 50 kJ of heat, calculate the final temperature of the system, assuming a specific heat of 4.5 J/g·K and a mass of 1000 g.",
+        "type": "fill-in",
+        "answer": "310"
+    },
+    {
+        "question": "The reaction in a plug flow reactor takes 20 minutes to complete at a certain temperature and pressure. If the flow rate is increased by 50%, calculate the new time required for the same reaction.",
+        "type": "fill-in",
+        "answer": "13.33"
+    },
+    {
+        "question": "In a heat exchanger, the hot fluid enters at 150°C and exits at 100°C. The cold fluid enters at 25°C and exits at 75°C. Using the equation for heat transfer, Q = mcΔT, calculate the heat transferred if the mass flow rate of the hot fluid is 2 kg/s.",
+        "type": "fill-in",
+        "answer": "2100"
+    },
+    {
+        "question": "The molar volume of an ideal gas at 1 atm and 273 K is 22.4 L/mol. Calculate the volume occupied by 3 moles of an ideal gas under these conditions.",
+        "type": "fill-in",
+        "answer": "67.2"
+    },
+    {
+        "question": "A distillation column processes 1000 kg/h of a mixture with a composition of 30% component A and 70% component B. Calculate the amount of component A in the mixture being processed.",
+        "type": "fill-in",
+        "answer": "300"
+    }
+]
