@@ -1,0 +1,938 @@
+[
+    {
+        "question": "Pharmacology is the science of drugs and their effects on living systems.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a route of drug administration?",
+        "type": "multiple-choice",
+        "options": [
+            "Intravenous",
+            "Extravenous",
+            "Subarterial",
+            "Intracranial"
+        ],
+        "answer": "Intravenous"
+    },
+    {
+        "question": "The study of the movement of drugs within the body is called ________.",
+        "type": "fill-in",
+        "answer": "pharmacokinetics"
+    },
+    {
+        "question": "All drugs have both therapeutic and adverse effects.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the primary organ responsible for drug metabolism?",
+        "type": "multiple-choice",
+        "options": [
+            "Liver",
+            "Kidney",
+            "Lung",
+            "Heart"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "question": "The maximum effect a drug can produce is its ________.",
+        "type": "fill-in",
+        "answer": "efficacy"
+    },
+    {
+        "question": "Antibiotics are used to treat viral infections.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which class of drugs is used to reduce blood pressure?",
+        "type": "multiple-choice",
+        "options": [
+            "Antihypertensives",
+            "Antipyretics",
+            "Anticoagulants",
+            "Antiemetics"
+        ],
+        "answer": "Antihypertensives"
+    },
+    {
+        "question": "The term for a drug that blocks the action of another drug is ________.",
+        "type": "fill-in",
+        "answer": "antagonist"
+    },
+    {
+        "question": "Half-life is the time it takes for the drug concentration to reduce by half.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the main mechanism of action for beta-blockers?",
+        "type": "multiple-choice",
+        "options": [
+            "Block beta-adrenergic receptors",
+            "Activate alpha receptors",
+            "Inhibit calcium channels",
+            "Increase potassium levels"
+        ],
+        "answer": "Block beta-adrenergic receptors"
+    },
+    {
+        "question": "The first-pass effect occurs in the ________.",
+        "type": "fill-in",
+        "answer": "liver"
+    },
+    {
+        "question": "Placebos have no pharmacological effect.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which drug is commonly used as an anticoagulant?",
+        "type": "multiple-choice",
+        "options": [
+            "Warfarin",
+            "Paracetamol",
+            "Ibuprofen",
+            "Metformin"
+        ],
+        "answer": "Warfarin"
+    },
+    {
+        "question": "The study of drug effects on the body is ________.",
+        "type": "fill-in",
+        "answer": "pharmacodynamics"
+    },
+    {
+        "question": "Idiosyncratic reactions to drugs are predictable.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the therapeutic index?",
+        "type": "multiple-choice",
+        "options": [
+            "Ratio of toxic dose to effective dose",
+            "Ratio of absorption to excretion",
+            "Time to peak effect",
+            "Drug half-life"
+        ],
+        "answer": "Ratio of toxic dose to effective dose"
+    },
+    {
+        "question": "A drug that mimics the action of a neurotransmitter is an ________.",
+        "type": "fill-in",
+        "answer": "agonist"
+    },
+    {
+        "question": "All drugs require a prescription.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which enzyme is inhibited by aspirin?",
+        "type": "multiple-choice",
+        "options": [
+            "Cyclooxygenase",
+            "Lipoxygenase",
+            "Monoamine oxidase",
+            "Acetylcholinesterase"
+        ],
+        "answer": "Cyclooxygenase"
+    },
+    {
+        "question": "The primary route for drug excretion is the ________.",
+        "type": "fill-in",
+        "answer": "kidneys"
+    },
+    {
+        "question": "Tolerance develops with chronic use of some drugs.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What class of drugs includes penicillin?",
+        "type": "multiple-choice",
+        "options": [
+            "Antibiotics",
+            "Antivirals",
+            "Antifungals",
+            "Antiparasitics"
+        ],
+        "answer": "Antibiotics"
+    },
+    {
+        "question": "The volume of distribution indicates the extent of drug ________ in the body.",
+        "type": "fill-in",
+        "answer": "distribution"
+    },
+    {
+        "question": "Generic drugs are always less effective than brand-name drugs.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which drug is used to treat type 2 diabetes?",
+        "type": "multiple-choice",
+        "options": [
+            "Metformin",
+            "Atenolol",
+            "Simvastatin",
+            "Lorazepam"
+        ],
+        "answer": "Metformin"
+    },
+    {
+        "question": "An adverse drug reaction that is dose-dependent is called ________.",
+        "type": "fill-in",
+        "answer": "toxic"
+    },
+    {
+        "question": "Pharmacogenetics studies how genes affect drug response.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the main side effect of opioids?",
+        "type": "multiple-choice",
+        "options": [
+            "Respiratory depression",
+            "Hypertension",
+            "Hyperglycemia",
+            "Insomnia"
+        ],
+        "answer": "Respiratory depression"
+    },
+    {
+        "question": "The process by which a drug enters the bloodstream is ________.",
+        "type": "fill-in",
+        "answer": "absorption"
+    },
+    {
+        "question": "Over-the-counter drugs require no regulation.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which class of drugs is used for anxiety?",
+        "type": "multiple-choice",
+        "options": [
+            "Benzodiazepines",
+            "Statins",
+            "Diuretics",
+            "Beta-agonists"
+        ],
+        "answer": "Benzodiazepines"
+    },
+    {
+        "question": "The ED50 is the dose that produces a response in 50% of the ________.",
+        "type": "fill-in",
+        "answer": "population"
+    },
+    {
+        "question": "Drug interactions can only increase effects.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the antidote for acetaminophen overdose?",
+        "type": "multiple-choice",
+        "options": [
+            "N-acetylcysteine",
+            "Naloxone",
+            "Flumazenil",
+            "Atropine"
+        ],
+        "answer": "N-acetylcysteine"
+    },
+    {
+        "question": "Biotransformation of drugs occurs mainly in the ________.",
+        "type": "fill-in",
+        "answer": "liver"
+    },
+    {
+        "question": "Controlled substances have no potential for abuse.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which drug is a proton pump inhibitor?",
+        "type": "multiple-choice",
+        "options": [
+            "Omeprazole",
+            "Ranitidine",
+            "Cimetidine",
+            "Sucralfate"
+        ],
+        "answer": "Omeprazole"
+    },
+    {
+        "question": "The blood-brain barrier affects drug ________ to the CNS.",
+        "type": "fill-in",
+        "answer": "penetration"
+    },
+    {
+        "question": "Allergic reactions to drugs are immune-mediated.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the primary use of statins?",
+        "type": "multiple-choice",
+        "options": [
+            "Lower cholesterol",
+            "Reduce blood pressure",
+            "Treat infections",
+            "Relieve pain"
+        ],
+        "answer": "Lower cholesterol"
+    },
+    {
+        "question": "The term for the unintended effects of a drug is ________ effects.",
+        "type": "fill-in",
+        "answer": "side"
+    },
+    {
+        "question": "Phase I clinical trials test drug efficacy.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which antibiotic class includes ciprofloxacin?",
+        "type": "multiple-choice",
+        "options": [
+            "Fluoroquinolones",
+            "Penicillins",
+            "Macrolides",
+            "Tetracyclines"
+        ],
+        "answer": "Fluoroquinolones"
+    },
+    {
+        "question": "Clearance is the rate at which a drug is ________ from the body.",
+        "type": "fill-in",
+        "answer": "eliminated"
+    },
+    {
+        "question": "Herbal supplements have no drug interactions.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the mechanism of action for diuretics?",
+        "type": "multiple-choice",
+        "options": [
+            "Increase urine output",
+            "Decrease heart rate",
+            "Dilate blood vessels",
+            "Block histamine"
+        ],
+        "answer": "Increase urine output"
+    },
+    {
+        "question": "A drug's potency refers to the ________ required to produce an effect.",
+        "type": "fill-in",
+        "answer": "dose"
+    },
+    {
+        "question": "Vaccines are considered pharmacological agents.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which drug is used for anticoagulation reversal?",
+        "type": "multiple-choice",
+        "options": [
+            "Vitamin K",
+            "Protamine",
+            "Glucagon",
+            "Diazepam"
+        ],
+        "answer": "Vitamin K"
+    },
+    {
+        "question": "The placenta acts as a barrier to all drugs during ________.",
+        "type": "fill-in",
+        "answer": "pregnancy"
+    },
+    {
+        "question": "Dependence on a drug can be physical or psychological.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What class of drugs includes morphine?",
+        "type": "multiple-choice",
+        "options": [
+            "Opioids",
+            "NSAIDs",
+            "Steroids",
+            "Antihistamines"
+        ],
+        "answer": "Opioids"
+    },
+    {
+        "question": "Bioavailability is highest with ________ administration.",
+        "type": "fill-in",
+        "answer": "intravenous"
+    },
+    {
+        "question": "There are presently over 48,000 prescription drugs.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Over 120,000 deaths occur each year resulting from adverse drug reactions.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "A DEA number is needed on a prescription for all controlled medications.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Another name for Demerol, a narcotic analgesic, is Meperidine.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Some drugs on the sterile field must be identified and labeled.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The majority of drugs given in the operating room are administered parenterally.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Each drug generally has two names.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The FDA is responsible for monitoring drug development, manufacturing, and marketing.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "PDR stands for primary drug resource.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Thrombin can be Injected during emergency situations.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "You can increase the hemostatic efficiency of avitene By applying sterile saline to it.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Streptokinase is given IV to dissolve blood clots.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Lasix is the most common osmotic diuretic.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "5% dextrose and 0.9% NaCl are isotonic.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Your primary duty as a scrub, during cardiac arrest surgery, is to get help.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "The usual dosage of amantadine is 10-40mg daily.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Because of disease such as arthritis, pain is considered a normal part of the aging process.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Patients taking levodopa may notice res to black discoloration of urine.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Pyridoxine will increase the therapeutic effect of levodopa; therefore patients should be told purchase pyridoxine-free vitamins.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Abrupt discontinuation of antiparkinsonian agents may precipitate status epilepticus.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Fibrosis, a rare side effect that causes thickening or scaring of the membranes lining of body organs, has been reported with Parlodel use.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Aricept is a new drug that is used to cure Alzheimer's patients.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Antipsychotic agents may be prescribed for aggressive behavior in Alzheimer's patients.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Phenytoin sodium has been known to cause gingival hyperplasia and hirsutism.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Lidocaine HCl is a commonly used general anesthetic.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Diamox is an oral diuretic that is used in the treatment of glaucoma.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Phenergan Tigan may be given orally, rectally, or by IM injection.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Patients taking any hormone therapy should report weight gain of 5 pounds or more in a week to their physician.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Testosterone use in woman may cause virilization, in women take on masculine characteristics.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Patients taking testosterone are at increased risk of developing blood clots, as testosterone increases certain clotting factors.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Hepatic flow-dependent drug elimination refers to:",
+        "type": "multiple-choice",
+        "options": [
+            "changes in plasma protein concentration",
+            "rate-limiting step is drug delivery to hepatic elimination sites",
+            "number of functional hepatocytes",
+            "carrier saturation"
+        ],
+        "answer": "rate-limiting step is drug delivery to hepatic elimination sites"
+    },
+    {
+        "question": "Cytochrome P450 induction (increased, amount of P450 enzyme protein) is often associated with:",
+        "type": "multiple-choice",
+        "options": [
+            "increased enzyme synthesis rates",
+            "reduced enzyme degradation rates",
+            "both",
+            "neither"
+        ],
+        "answer": "both"
+    },
+    {
+        "question": "Microsomal drug metabolizing enzymes are typically associated with:",
+        "type": "multiple-choice",
+        "options": [
+            "rough endoplasmic reticulum",
+            "smooth endoplasmic reticulum"
+        ],
+        "answer": "smooth endoplasmic reticulum"
+    },
+    {
+        "question": "Examples of \"high-extraction\" drugs -- related to hepatic drug clearance:",
+        "type": "multiple-choice",
+        "options": [
+            "morphine",
+            "meperidine",
+            "verapamil",
+            "all the above"
+        ],
+        "answer": "all the above"
+    },
+    {
+        "question": "Pharmacogenetic effects:",
+        "type": "multiple-choice",
+        "options": [
+            "prolonged mivacurium-induced neuromuscular blockade due to atypical cholinesterase",
+            "succinylcholine or volatile anesthetic-induced malignant hyperthermia",
+            "both",
+            "neither"
+        ],
+        "answer": "both"
+    },
+    {
+        "question": "Termination of pharmacological action of thiopental occurs mainly by:",
+        "type": "multiple-choice",
+        "options": [
+            "metabolism",
+            "excretion",
+            "redistribution"
+        ],
+        "answer": "redistribution"
+    },
+    {
+        "question": "Reaction type associated with inactivation of succinylcholine, atracurium, and mivacurium.",
+        "type": "multiple-choice",
+        "options": [
+            "conjugation",
+            "hydrolysis",
+            "oxidation",
+            "reduction"
+        ],
+        "answer": "hydrolysis"
+    },
+    {
+        "question": "Factors affecting renal clearance of drugs:",
+        "type": "multiple-choice",
+        "options": [
+            "the presence of renal disease",
+            "drug secretion rates",
+            "number of functional nephrons",
+            "all of the above"
+        ],
+        "answer": "all of the above"
+    },
+    {
+        "question": "Concerning drug-plasma protein binding:",
+        "type": "multiple-choice",
+        "options": [
+            "Drugs are seldom bound to plasma proteins",
+            "volume of distribution is not influenced by protein binding",
+            "diazepam is an example of the drug that is minimally protein-bound",
+            "drug clearance is influenced by the extent of protein binding"
+        ],
+        "answer": "drug clearance is influenced by the extent of protein binding"
+    },
+    {
+        "question": "Mixed function oxidases system is referred to as mediating:",
+        "type": "multiple-choice",
+        "options": [
+            "phase I system",
+            "phase II system"
+        ],
+        "answer": "phase I system"
+    },
+    {
+        "question": "Factors affecting renal drug secretion rates:",
+        "type": "multiple-choice",
+        "options": [
+            "carrier saturation",
+            "drug transfer rates across tubular membranes",
+            "degree of drug-plasma protein binding",
+            "all the above"
+        ],
+        "answer": "all the above"
+    },
+    {
+        "question": "Which of the following is the antidote for the toxin Benzodiazepines?",
+        "type": "multiple-choice",
+        "options": [
+            "Flumazenil",
+            "Methylene blue",
+            "Deferoxamine",
+            "Alkalinize urine"
+        ],
+        "answer": "Flumazenil"
+    },
+    {
+        "question": "Which of the following is the antidote for the toxin Lead?",
+        "type": "multiple-choice",
+        "options": [
+            "Naloxone",
+            "Nitrite",
+            "CaEDTA",
+            "Dialysis"
+        ],
+        "answer": "CaEDTA"
+    },
+    {
+        "question": "Which of the following is the primary site of activity for the drug Warfarin?",
+        "type": "multiple-choice",
+        "options": [
+            "Kidney",
+            "Liver",
+            "Blood",
+            "Heart"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "question": "Lansoprazole is not used in which of the following cases?",
+        "type": "multiple-choice",
+        "options": [
+            "Gastritis",
+            "Peptic Ulcers",
+            "Zollinger-Ellison syndrome",
+            "Thalamus hypertrophy"
+        ],
+        "answer": "Thalamus hypertrophy"
+    },
+    {
+        "question": "Which of the following drugs is associated with the reaction of Cinchonism?",
+        "type": "multiple-choice",
+        "options": [
+            "Valproic acid",
+            "Quinidine",
+            "Isoniazid",
+            "Ethosuximide"
+        ],
+        "answer": "Quinidine"
+    },
+    {
+        "question": "Which of the following drugs is associated with the reaction of hepatitis?",
+        "type": "multiple-choice",
+        "options": [
+            "Valproic acid",
+            "Quinidine",
+            "Isoniazid",
+            "Ethosuximide"
+        ],
+        "answer": "Isoniazid"
+    },
+    {
+        "question": "Which of the following drugs is associated with the reaction of Stevens-Johnson syndrome?",
+        "type": "multiple-choice",
+        "options": [
+            "Valproic acid",
+            "Quinidine",
+            "Isoniazid",
+            "Ethosuximide"
+        ],
+        "answer": "Ethosuximide"
+    },
+    {
+        "question": "Which of the following drugs is associated with the reaction of Tendon dysfunction?",
+        "type": "multiple-choice",
+        "options": [
+            "Digitalis",
+            "Niacin",
+            "Tetracycline",
+            "Fluoroquinolones"
+        ],
+        "answer": "Fluoroquinolones"
+    },
+    {
+        "question": "A drug ending in the suffix (pril) is considered a ______.",
+        "type": "multiple-choice",
+        "options": [
+            "H",
+            "ACE inhibitor",
+            "Antifungal",
+            "Beta agonist"
+        ],
+        "answer": "ACE inhibitor"
+    },
+    {
+        "question": "A drug ending in the suffix (azole) is considered a ______.",
+        "type": "multiple-choice",
+        "options": [
+            "H",
+            "ACE inhibitor",
+            "Antifungal",
+            "Beta agonist"
+        ],
+        "answer": "Antifungal"
+    },
+    {
+        "question": "A drug ending in the suffix (tidine) is considered a ______.",
+        "type": "multiple-choice",
+        "options": [
+            "Antidepressant",
+            "Protease inhibitor",
+            "Beta antagonist",
+            "H 2 antagonist"
+        ],
+        "answer": "H 2 antagonist"
+    },
+    {
+        "question": "A drug ending in the suffix (navir) is considered a ______.",
+        "type": "multiple-choice",
+        "options": [
+            "Antidepressant",
+            "Protease inhibitor",
+            "Beta antagonist",
+            "H 2 antagonist"
+        ],
+        "answer": "Protease inhibitor"
+    },
+    {
+        "question": "Which of the following drugs is associated with the reaction of extreme photosensitivity?",
+        "type": "multiple-choice",
+        "options": [
+            "Digitalis",
+            "Niacin",
+            "Tetracycline",
+            "Fluoroquinolones"
+        ],
+        "answer": "Tetracycline"
+    },
+    {
+        "question": "Which of the following is not related to a drug toxicity of Prednisone?",
+        "type": "multiple-choice",
+        "options": [
+            "Cataracts",
+            "Hypotension",
+            "Psychosis",
+            "Acne"
+        ],
+        "answer": "Hypotension"
+    },
+    {
+        "question": "Which of the following is not related to a drug toxicity of Atenolol?",
+        "type": "multiple-choice",
+        "options": [
+            "CHF",
+            "Tachycardia",
+            "AV block",
+            "Sedative appearance"
+        ],
+        "answer": "Tachycardia"
+    },
+    {
+        "question": "Which of the following is considered a class IA Sodium Channel blocker?",
+        "type": "multiple-choice",
+        "options": [
+            "Mexiletine",
+            "Aminodarone",
+            "Quinidine",
+            "Procainamide"
+        ],
+        "answer": "Quinidine"
+    },
+    {
+        "question": "Which of the following is considered a class IA Sodium Channel blocker?",
+        "type": "multiple-choice",
+        "options": [
+            "Propafenone",
+            "Disopyramide",
+            "Aminodarone",
+            "Quinidine"
+        ],
+        "answer": "Disopyramide"
+    },
+    {
+        "question": "Pharmacology is the study of drugs, which includes understanding how drugs are administered, where they travel in the body, and the ________ they produce.",
+        "type": "fill-in",
+        "answer": "responses"
+    },
+    {
+        "question": "In order to thoroughly understand pharmacology, related subjects—such as anatomy and physiology, chemistry, microbiology, and __________ must be understood as well.",
+        "type": "fill-in",
+        "answer": "pathophysiology"
+    },
+    {
+        "question": "Therapeutics is concerned with the prevention of disease and treatment of _______.",
+        "type": "fill-in",
+        "answer": "suffering"
+    },
+    {
+        "question": "Traditional drugs are ___________ agents synthesized in a laboratory that produce biological responses in the body.",
+        "type": "fill-in",
+        "answer": "chemical"
+    },
+    {
+        "question": "Biologics are naturally produced in animal cells, by microorganisms or by the _______ itself, and are used to treat a variety of illnesses and conditions.",
+        "type": "fill-in",
+        "answer": "body"
+    },
+    {
+        "question": "Prescription drugs offer the advantage of the patient's being ________ by a health care provider, as well as ensuring that the proper amount and frequency of a drug are prescribed.",
+        "type": "fill-in",
+        "answer": "seen"
+    },
+    {
+        "question": "Advantages of Over-the-Counter (OTC drugs) include the ability to obtain the drug ___________ seeing a health care provider.",
+        "type": "fill-in",
+        "answer": "without"
+    },
+    {
+        "question": "The Food and Drug Administration was officially established as an agency of the U.S. Department of Health and Human Services in _______.",
+        "type": "fill-in",
+        "answer": "1988"
+    },
+    {
+        "question": "Any pharmaceutical laboratory must solicit approval from the FDA __________ marketing a drug.",
+        "type": "fill-in",
+        "answer": "before"
+    },
+    {
+        "question": "The FDA reviews therapeutic and biologic drugs for approval in four phases: preclinical investigation, _________investigation, review of the New Drug Application (NDA), and postmarketing _________.",
+        "type": "fill-in",
+        "answer": "clinical"
+    },
+    {
+        "question": "The clinical investigation, which is the ________ part of the drug-approval process, evaluates the drug's effectiveness and safety in humans.",
+        "type": "fill-in",
+        "answer": "longest"
+    },
+    {
+        "question": "The average NDA _________ time is 17 to 24 months.",
+        "type": "fill-in",
+        "answer": "review"
+    },
+    {
+        "question": "A client who has paroxysmal supraventricular tachycardia received an IV dysrhythmic, _______.",
+        "type": "fill-in",
+        "answer": "Adenosine"
+    },
+    {
+        "question": "A man who has urinary hesitation and dysuria is prescribe ______ to relieve these symptoms of benign prostatic hyperplasia (BPH).",
+        "type": "fill-in",
+        "answer": "Dutasteride"
+    },
+    {
+        "question": "A client who has atrial fibrillation is prescribed ______ to prevent thrombosis.",
+        "type": "fill-in",
+        "answer": "Warfarin"
+    },
+    {
+        "question": "A client who has epilepsy takes _______.",
+        "type": "fill-in",
+        "answer": "phenytoin"
+    },
+    {
+        "question": "A woman who has a trichomoniasis infection takes _______.",
+        "type": "fill-in",
+        "answer": "Metronidazole"
+    },
+    {
+        "question": "A client who has muscle spasm is prescribed _______.",
+        "type": "fill-in",
+        "answer": "Cyclobenzaprine"
+    },
+    {
+        "question": "______ may be given for antidepressant induced insomnia.",
+        "type": "fill-in",
+        "answer": "Trazodone"
+    },
+    {
+        "question": "A client is prescribed oral ______ for pain control.",
+        "type": "fill-in",
+        "answer": "hydrocodone/acetaminophen"
+    },
+    {
+        "question": "A client who has asthma is instructed to take ______ two hours before exercising to prevent bronchospasms.",
+        "type": "fill-in",
+        "answer": "Montelukast"
+    }
+]

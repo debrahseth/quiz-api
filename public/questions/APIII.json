@@ -1,0 +1,338 @@
+[
+    {
+        "question": "The heart is enclosed in a sac called the pericardium.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following bones is classified as a flat bone?",
+        "type": "multiple-choice",
+        "options": [
+            "Femur",
+            "Sternum",
+            "Vertebra",
+            "Phalanges"
+        ],
+        "answer": "Sternum"
+    },
+    {
+        "question": "The basic structural and functional unit of the kidney is the _______.",
+        "type": "fill-in",
+        "answer": "nephron"
+    },
+    {
+        "question": "The hypothalamus regulates body temperature and hunger.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which blood type is considered the universal donor?",
+        "type": "multiple-choice",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O negative"
+        ],
+        "answer": "O negative"
+    },
+    {
+        "question": "The _______ is the primary muscle responsible for breathing.",
+        "type": "fill-in",
+        "answer": "diaphragm"
+    },
+    {
+        "question": "The mitral valve is also called the bicuspid valve.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which part of the brain regulates breathing and heart rate?",
+        "type": "multiple-choice",
+        "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla oblongata",
+            "Thalamus"
+        ],
+        "answer": "Medulla oblongata"
+    },
+    {
+        "question": "The functional unit of skeletal muscle is the _______.",
+        "type": "fill-in",
+        "answer": "sarcomere"
+    },
+    {
+        "question": "The small intestine is longer than the large intestine.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+        "type": "multiple-choice",
+        "options": [
+            "Right atrium",
+            "Right ventricle",
+            "Left atrium",
+            "Left ventricle"
+        ],
+        "answer": "Left ventricle"
+    },
+    {
+        "question": "The _______ gland regulates metabolism through the release of thyroxine.",
+        "type": "fill-in",
+        "answer": "thyroid"
+    },
+    {
+        "question": "White blood cells are also called leukocytes.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which structure connects the pharynx to the stomach?",
+        "type": "multiple-choice",
+        "options": [
+            "Trachea",
+            "Esophagus",
+            "Duodenum",
+            "Larynx"
+        ],
+        "answer": "Esophagus"
+    },
+    {
+        "question": "The _______ is the functional unit of the liver.",
+        "type": "fill-in",
+        "answer": "lobule"
+    },
+    {
+        "question": "The left atrium receives blood from the pulmonary arteries.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which type of joint is found in the shoulder and hip?",
+        "type": "multiple-choice",
+        "options": [
+            "Hinge joint",
+            "Pivot joint",
+            "Ball-and-socket joint",
+            "Saddle joint"
+        ],
+        "answer": "Ball-and-socket joint"
+    },
+    {
+        "question": "The _______ is the tube that carries urine from the bladder to the outside.",
+        "type": "fill-in",
+        "answer": "urethra"
+    },
+    {
+        "question": "The primary function of red blood cells is to carry carbon dioxide.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which part of the nephron is responsible for filtration?",
+        "type": "multiple-choice",
+        "options": [
+            "Loop of Henle",
+            "Bowman’s capsule",
+            "Distal convoluted tubule",
+            "Collecting duct"
+        ],
+        "answer": "Bowman’s capsule"
+    },
+    {
+        "question": "The _______ is the part of the brain responsible for higher thought processes.",
+        "type": "fill-in",
+        "answer": "cerebrum"
+    },
+    {
+        "question": "The spleen is part of both the lymphatic and circulatory systems.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is NOT an endocrine gland?",
+        "type": "multiple-choice",
+        "options": [
+            "Adrenal gland",
+            "Thyroid gland",
+            "Sweat gland",
+            "Pituitary gland"
+        ],
+        "answer": "Sweat gland"
+    },
+    {
+        "question": "The _______ is the largest vein in the human body.",
+        "type": "fill-in",
+        "answer": "inferior vena cava"
+    },
+    {
+        "question": "Osteocytes are mature bone cells.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following cranial nerves is responsible for vision?",
+        "type": "multiple-choice",
+        "options": [
+            "Optic nerve",
+            "Olfactory nerve",
+            "Facial nerve",
+            "Trigeminal nerve"
+        ],
+        "answer": "Optic nerve"
+    },
+    {
+        "question": "The _______ is the middle layer of the heart wall.",
+        "type": "fill-in",
+        "answer": "myocardium"
+    },
+    {
+        "question": "The left kidney is usually slightly lower than the right kidney.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+        "type": "multiple-choice",
+        "options": [
+            "Pulmonary artery",
+            "Pulmonary vein",
+            "Aorta",
+            "Superior vena cava"
+        ],
+        "answer": "Pulmonary vein"
+    },
+    {
+        "question": "The _______ is the outermost layer of the meninges.",
+        "type": "fill-in",
+        "answer": "dura mater"
+    },
+    {
+        "question": "The patella is also known as the kneecap.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which organ produces bile?",
+        "type": "multiple-choice",
+        "options": [
+            "Gallbladder",
+            "Liver",
+            "Pancreas",
+            "Small intestine"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "question": "The _______ is the largest part of the human brain.",
+        "type": "fill-in",
+        "answer": "cerebrum"
+    },
+    {
+        "question": "The pulmonary artery carries oxygenated blood.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which part of the digestive system absorbs most nutrients?",
+        "type": "multiple-choice",
+        "options": [
+            "Stomach",
+            "Large intestine",
+            "Small intestine",
+            "Esophagus"
+        ],
+        "answer": "Small intestine"
+    },
+    {
+        "question": "The _______ bone is the only bone in the human body that does not articulate with another bone.",
+        "type": "fill-in",
+        "answer": "hyoid"
+    },
+    {
+        "question": "The adrenal glands sit on top of the kidneys.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which structure produces cerebrospinal fluid?",
+        "type": "multiple-choice",
+        "options": [
+            "Choroid plexus",
+            "Meninges",
+            "Cerebellum",
+            "Thalamus"
+        ],
+        "answer": "Choroid plexus"
+    },
+    {
+        "question": "The _______ is the basic functional unit of compact bone.",
+        "type": "fill-in",
+        "answer": "osteon"
+    },
+    {
+        "question": "The left lung has three lobes while the right lung has two.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which type of connective tissue stores fat?",
+        "type": "multiple-choice",
+        "options": [
+            "Dense connective tissue",
+            "Cartilage",
+            "Adipose tissue",
+            "Bone"
+        ],
+        "answer": "Adipose tissue"
+    },
+    {
+        "question": "The _______ is the pacemaker of the heart.",
+        "type": "fill-in",
+        "answer": "sinoatrial node"
+    },
+    {
+        "question": "Arteries always carry oxygenated blood.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which part of the brain is responsible for balance and coordination?",
+        "type": "multiple-choice",
+        "options": [
+            "Frontal lobe",
+            "Cerebellum",
+            "Medulla oblongata",
+            "Parietal lobe"
+        ],
+        "answer": "Cerebellum"
+    },
+    {
+        "question": "The _______ is the tube that carries sperm from the testes to the urethra.",
+        "type": "fill-in",
+        "answer": "vas deferens"
+    },
+    {
+        "question": "The pituitary gland is located at the base of the brain.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which type of blood vessel has valves to prevent backflow?",
+        "type": "multiple-choice",
+        "options": [
+            "Arteries",
+            "Arterioles",
+            "Capillaries",
+            "Veins"
+        ],
+        "answer": "Veins"
+    },
+    {
+        "question": "The _______ is the main organ of the integumentary system.",
+        "type": "fill-in",
+        "answer": "skin"
+    }
+]

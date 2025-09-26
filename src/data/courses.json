@@ -110,5 +110,47 @@
         "program": "Chemical Engineering",
         "level": "Level 300",
         "semester": "Semester 1"
+    },
+    {
+        "id": "ANII",
+        "name": "Advanced Nursing II",
+        "program": "General Nursing",
+        "level": "Level 200",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "APIII",
+        "name": "Anatomy and Physiology III",
+        "program": "General Nursing",
+        "level": "Level 200",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "MMNI",
+        "name": "Medicine and Medical Nursing I",
+        "program": "General Nursing",
+        "level": "Level 200",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "SSNI",
+        "name": "Surgery and Surgical Nursing I",
+        "program": "General Nursing",
+        "level": "Level 200",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "HI",
+        "name": "Health Informatics",
+        "program": "General Nursing",
+        "level": "Level 200",
+        "semester": "Semester 1"
+    },
+    {
+        "id": "PI",
+        "name": "Pharmocology I",
+        "program": "General Nursing",
+        "level": "Level 200",
+        "semester": "Semester 1"
     }
 ]

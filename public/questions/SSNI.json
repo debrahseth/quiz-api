@@ -1,0 +1,380 @@
+[
+    {
+        "question": "General anesthesia renders the patient unconscious and without sensation.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a common preoperative nursing intervention?",
+        "type": "multiple-choice",
+        "options": [
+            "Obtaining informed consent",
+            "Administering postoperative pain medication",
+            "Performing wound closure",
+            "Conducting intraoperative monitoring"
+        ],
+        "answer": "Obtaining informed consent"
+    },
+    {
+        "question": "The surgical removal of the appendix is called ________.",
+        "type": "fill-in",
+        "answer": "appendectomy"
+    },
+    {
+        "question": "Sterile technique is maintained only in the operating room.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the primary purpose of surgical draping?",
+        "type": "multiple-choice",
+        "options": [
+            "To create a sterile field",
+            "To keep the patient warm",
+            "To administer anesthesia",
+            "To monitor vital signs"
+        ],
+        "answer": "To create a sterile field"
+    },
+    {
+        "question": "The phase of surgery that occurs after the procedure is the ________ phase.",
+        "type": "fill-in",
+        "answer": "postoperative"
+    },
+    {
+        "question": "Laparoscopic surgery is more invasive than open surgery.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which instrument is used to grasp tissue during surgery?",
+        "type": "multiple-choice",
+        "options": [
+            "Forceps",
+            "Scalpel",
+            "Retractor",
+            "Suture needle"
+        ],
+        "answer": "Forceps"
+    },
+    {
+        "question": "The abbreviation OR stands for ________ room.",
+        "type": "fill-in",
+        "answer": "operating"
+    },
+    {
+        "question": "Postoperative ileus is a common complication after abdominal surgery.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the role of the circulating nurse in the OR?",
+        "type": "multiple-choice",
+        "options": [
+            "Provides supplies and documents care",
+            "Administers anesthesia",
+            "Performs the incision",
+            "Holds retractors"
+        ],
+        "answer": "Provides supplies and documents care"
+    },
+    {
+        "question": "The surgical excision of a tumor is called ________.",
+        "type": "fill-in",
+        "answer": "resection"
+    },
+    {
+        "question": "All surgical patients require prophylactic antibiotics.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following is a sign of surgical site infection?",
+        "type": "multiple-choice",
+        "options": [
+            "Redness and swelling",
+            "Decreased pain",
+            "Clear drainage",
+            "Normal temperature"
+        ],
+        "answer": "Redness and swelling"
+    },
+    {
+        "question": "The type of anesthesia that numbs a specific area is ________ anesthesia.",
+        "type": "fill-in",
+        "answer": "regional"
+    },
+    {
+        "question": "Deep vein thrombosis (DVT) is a risk only in orthopedic surgery.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the purpose of preoperative fasting?",
+        "type": "multiple-choice",
+        "options": [
+            "To prevent aspiration",
+            "To reduce blood pressure",
+            "To increase energy",
+            "To promote wound healing"
+        ],
+        "answer": "To prevent aspiration"
+    },
+    {
+        "question": "The instrument used to cut tissue is a ________.",
+        "type": "fill-in",
+        "answer": "scalpel"
+    },
+    {
+        "question": "Surgical nurses must wear personal protective equipment (PPE) in the OR.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which complication involves air entering the pleural space?",
+        "type": "multiple-choice",
+        "options": [
+            "Pneumothorax",
+            "Hemorrhage",
+            "Infection",
+            "Embolism"
+        ],
+        "answer": "Pneumothorax"
+    },
+    {
+        "question": "The repair of a hernia is called ________.",
+        "type": "fill-in",
+        "answer": "herniorrhaphy"
+    },
+    {
+        "question": "Intraoperative hypothermia is not a concern in short procedures.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What does PACU stand for?",
+        "type": "multiple-choice",
+        "options": [
+            "Post-Anesthesia Care Unit",
+            "Preoperative Assessment Care Unit",
+            "Patient Admission Care Unit",
+            "Postoperative Acute Care Unit"
+        ],
+        "answer": "Post-Anesthesia Care Unit"
+    },
+    {
+        "question": "The suture material that is absorbed by the body is ________.",
+        "type": "fill-in",
+        "answer": "absorbable"
+    },
+    {
+        "question": "Malignant hyperthermia is a rare reaction to anesthesia.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which nursing intervention is key in preventing pressure ulcers during surgery?",
+        "type": "multiple-choice",
+        "options": [
+            "Proper positioning",
+            "Frequent ambulation",
+            "Antibiotic administration",
+            "Fluid restriction"
+        ],
+        "answer": "Proper positioning"
+    },
+    {
+        "question": "The surgical removal of the gallbladder is ________.",
+        "type": "fill-in",
+        "answer": "cholecystectomy"
+    },
+    {
+        "question": "All surgeries require general anesthesia.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the primary goal of postoperative pain management?",
+        "type": "multiple-choice",
+        "options": [
+            "Promote recovery and mobility",
+            "Induce sleep",
+            "Reduce appetite",
+            "Increase heart rate"
+        ],
+        "answer": "Promote recovery and mobility"
+    },
+    {
+        "question": "The device used to monitor oxygen saturation is a ________ oximeter.",
+        "type": "fill-in",
+        "answer": "pulse"
+    },
+    {
+        "question": "Surgical asepsis means the absence of all microorganisms.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a type of minimally invasive surgery?",
+        "type": "multiple-choice",
+        "options": [
+            "Endoscopy",
+            "Laparotomy",
+            "Craniotomy",
+            "Thoracotomy"
+        ],
+        "answer": "Endoscopy"
+    },
+    {
+        "question": "The inflammation of the peritoneum is called ________.",
+        "type": "fill-in",
+        "answer": "peritonitis"
+    },
+    {
+        "question": "Patients can eat immediately after surgery.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the role of the scrub nurse?",
+        "type": "multiple-choice",
+        "options": [
+            "Assists directly in the sterile field",
+            "Manages patient admission",
+            "Administers IV medications",
+            "Documents vital signs only"
+        ],
+        "answer": "Assists directly in the sterile field"
+    },
+    {
+        "question": "The surgical procedure to remove a kidney is ________.",
+        "type": "fill-in",
+        "answer": "nephrectomy"
+    },
+    {
+        "question": "Wound dehiscence is the separation of wound edges.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which factor increases the risk of postoperative complications?",
+        "type": "multiple-choice",
+        "options": [
+            "Smoking",
+            "Young age",
+            "Adequate nutrition",
+            "Regular exercise"
+        ],
+        "answer": "Smoking"
+    },
+    {
+        "question": "The tube inserted to drain urine postoperatively is a ________ catheter.",
+        "type": "fill-in",
+        "answer": "Foley"
+    },
+    {
+        "question": "Elective surgery is performed in emergency situations.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is monitored closely in the PACU?",
+        "type": "multiple-choice",
+        "options": [
+            "Vital signs",
+            "Diet intake",
+            "Exercise routine",
+            "Sleep patterns"
+        ],
+        "answer": "Vital signs"
+    },
+    {
+        "question": "The surgical creation of an opening into the trachea is ________.",
+        "type": "fill-in",
+        "answer": "tracheostomy"
+    },
+    {
+        "question": "Antiemetics are used to prevent postoperative nausea.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which dressing promotes moist wound healing?",
+        "type": "multiple-choice",
+        "options": [
+            "Hydrocolloid",
+            "Dry gauze",
+            "Adhesive tape",
+            "Cotton balls"
+        ],
+        "answer": "Hydrocolloid"
+    },
+    {
+        "question": "The removal of dead tissue from a wound is called ________.",
+        "type": "fill-in",
+        "answer": "debridement"
+    },
+    {
+        "question": "Surgical patients are at risk for atelectasis due to immobility.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the purpose of incentive spirometry postoperatively?",
+        "type": "multiple-choice",
+        "options": [
+            "To expand lungs and prevent pneumonia",
+            "To measure blood pressure",
+            "To administer oxygen",
+            "To reduce pain"
+        ],
+        "answer": "To expand lungs and prevent pneumonia"
+    },
+    {
+        "question": "The surgical repair of a fractured bone is ________ fixation.",
+        "type": "fill-in",
+        "answer": "internal"
+    },
+    {
+        "question": "All surgical incisions heal by primary intention.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which medication is commonly used for surgical prophylaxis?",
+        "type": "multiple-choice",
+        "options": [
+            "Cefazolin",
+            "Ibuprofen",
+            "Acetaminophen",
+            "Insulin"
+        ],
+        "answer": "Cefazolin"
+    },
+    {
+        "question": "The condition where bowel protrudes through a wound is ________.",
+        "type": "fill-in",
+        "answer": "evisceration"
+    },
+    {
+        "question": "Nursing documentation in surgery includes timeouts and counts.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What does SCIP stand for in surgical care?",
+        "type": "multiple-choice",
+        "options": [
+            "Surgical Care Improvement Project",
+            "Standard Care Inpatient Protocol",
+            "Surgical Complication Intervention Plan",
+            "Standardized Clinical Improvement Process"
+        ],
+        "answer": "Surgical Care Improvement Project"
+    },
+    {
+        "question": "The instrument used to hold incisions open is a ________.",
+        "type": "fill-in",
+        "answer": "retractor"
+    }
+]

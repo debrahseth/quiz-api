@@ -1,0 +1,380 @@
+[
+    {
+        "question": "In advanced nursing practice, evidence-based guidelines should always override clinical judgment.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which electrolyte imbalance is most associated with peaked T waves on an ECG?",
+        "type": "multiple-choice",
+        "options": [
+            "Hypocalcemia",
+            "Hyperkalemia",
+            "Hyponatremia",
+            "Hypermagnesemia"
+        ],
+        "answer": "Hyperkalemia"
+    },
+    {
+        "question": "The normal range for intracranial pressure (ICP) in adults is ____ mmHg.",
+        "type": "fill-in",
+        "answer": "5-15"
+    },
+    {
+        "question": "Nurse practitioners are legally permitted to independently diagnose, treat, and prescribe in every U.S. state.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following is the first-line treatment for septic shock according to current guidelines?",
+        "type": "multiple-choice",
+        "options": [
+            "Administer vasopressors immediately",
+            "Start broad-spectrum antibiotics within 1 hour",
+            "Begin corticosteroids",
+            "Initiate dialysis"
+        ],
+        "answer": "Start broad-spectrum antibiotics within 1 hour"
+    },
+    {
+        "question": "The drug of choice for treating anaphylaxis is ____.",
+        "type": "fill-in",
+        "answer": "epinephrine"
+    },
+    {
+        "question": "Continuous bladder irrigation is typically indicated after transurethral resection of the prostate (TURP).",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which oxygen delivery device provides the highest concentration of oxygen?",
+        "type": "multiple-choice",
+        "options": [
+            "Nasal cannula",
+            "Simple face mask",
+            "Non-rebreather mask",
+            "Venturi mask"
+        ],
+        "answer": "Non-rebreather mask"
+    },
+    {
+        "question": "The antidote for opioid overdose is ____.",
+        "type": "fill-in",
+        "answer": "naloxone"
+    },
+    {
+        "question": "A patient with diabetic ketoacidosis (DKA) typically presents with metabolic acidosis and Kussmaul respirations.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following interventions has the highest priority for a patient with acute pulmonary edema?",
+        "type": "multiple-choice",
+        "options": [
+            "Administer furosemide IV",
+            "Encourage fluid intake",
+            "Apply compression stockings",
+            "Monitor daily weights"
+        ],
+        "answer": "Administer furosemide IV"
+    },
+    {
+        "question": "The therapeutic serum level range for digoxin is ____ ng/mL.",
+        "type": "fill-in",
+        "answer": "0.5-2.0"
+    },
+    {
+        "question": "In advanced nursing, arterial blood gas (ABG) analysis is primarily used to assess oxygenation and acid-base balance.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a common complication of central venous catheter insertion?",
+        "type": "multiple-choice",
+        "options": [
+            "Pneumothorax",
+            "Hypotension",
+            "Hyperglycemia",
+            "Constipation"
+        ],
+        "answer": "Pneumothorax"
+    },
+    {
+        "question": "The primary medication class used to treat acute decompensated heart failure is ________.",
+        "type": "fill-in",
+        "answer": "diuretics"
+    },
+    {
+        "question": "Advanced practice nurses can independently prescribe controlled substances in all U.S. states.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the most appropriate initial intervention for a patient experiencing anaphylaxis?",
+        "type": "multiple-choice",
+        "options": [
+            "Administer epinephrine",
+            "Provide oxygen therapy",
+            "Start IV fluids",
+            "Give antihistamines"
+        ],
+        "answer": "Administer epinephrine"
+    },
+    {
+        "question": "The Glasgow Coma Scale assesses eye opening, verbal response, and ________ response.",
+        "type": "fill-in",
+        "answer": "motor"
+    },
+    {
+        "question": "Mechanical ventilation is contraindicated in patients with acute respiratory distress syndrome (ARDS).",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which electrolyte imbalance is most commonly associated with digoxin toxicity?",
+        "type": "multiple-choice",
+        "options": [
+            "Hypokalemia",
+            "Hypernatremia",
+            "Hypocalcemia",
+            "Hypermagnesemia"
+        ],
+        "answer": "Hypokalemia"
+    },
+    {
+        "question": "The term for inflammation of the pericardium is ________.",
+        "type": "fill-in",
+        "answer": "pericarditis"
+    },
+    {
+        "question": "Nurse practitioners must collaborate with physicians for all patient care decisions.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In managing diabetic ketoacidosis (DKA), the initial fluid replacement should be with:",
+        "type": "multiple-choice",
+        "options": [
+            "Normal saline",
+            "D5W",
+            "Lactated Ringer's",
+            "Half-normal saline"
+        ],
+        "answer": "Normal saline"
+    },
+    {
+        "question": "The antidote for heparin overdose is ________.",
+        "type": "fill-in",
+        "answer": "protamine sulfate"
+    },
+    {
+        "question": "Palliative care focuses solely on end-of-life treatment.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following is a sign of increased intracranial pressure?",
+        "type": "multiple-choice",
+        "options": [
+            "Cushing's triad",
+            "Tachypnea",
+            "Hypotension",
+            "Polyuria"
+        ],
+        "answer": "Cushing's triad"
+    },
+    {
+        "question": "The primary nursing intervention for a patient with pulmonary embolism is ________ therapy.",
+        "type": "fill-in",
+        "answer": "anticoagulation"
+    },
+    {
+        "question": "Advanced directives are legally binding in all healthcare settings.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the gold standard diagnostic test for confirming myocardial infarction?",
+        "type": "multiple-choice",
+        "options": [
+            "Troponin levels",
+            "ECG",
+            "Echocardiogram",
+            "Chest X-ray"
+        ],
+        "answer": "Troponin levels"
+    },
+    {
+        "question": "The condition characterized by low platelet count, prolonged bleeding time, and hemolytic anemia is ________.",
+        "type": "fill-in",
+        "answer": "thrombotic thrombocytopenic purpura"
+    },
+    {
+        "question": "Telehealth services require in-person verification for all prescriptions.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which medication is commonly used as a reversal agent for benzodiazepine overdose?",
+        "type": "multiple-choice",
+        "options": [
+            "Flumazenil",
+            "Naloxone",
+            "Atropine",
+            "Glucagon"
+        ],
+        "answer": "Flumazenil"
+    },
+    {
+        "question": "The Braden Scale is used to assess risk for ________ ulcers.",
+        "type": "fill-in",
+        "answer": "pressure"
+    },
+    {
+        "question": "Evidence-based practice in nursing excludes patient preferences.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "In sepsis management, the Surviving Sepsis Campaign recommends fluid resuscitation with at least:",
+        "type": "multiple-choice",
+        "options": [
+            "30 mL/kg crystalloid",
+            "10 mL/kg colloid",
+            "50 mL/kg normal saline",
+            "20 mL/kg D5W"
+        ],
+        "answer": "30 mL/kg crystalloid"
+    },
+    {
+        "question": "The hormone responsible for milk ejection reflex is ________.",
+        "type": "fill-in",
+        "answer": "oxytocin"
+    },
+    {
+        "question": "All advanced practice nurses are required to hold a doctoral degree.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following is an indicator of hypovolemic shock?",
+        "type": "multiple-choice",
+        "options": [
+            "Tachycardia",
+            "Bradycardia",
+            "Hypertension",
+            "Hyperthermia"
+        ],
+        "answer": "Tachycardia"
+    },
+    {
+        "question": "The diagnostic criteria for systemic lupus erythematosus (SLE) often include a positive ________ test.",
+        "type": "fill-in",
+        "answer": "ANA"
+    },
+    {
+        "question": "Continuous renal replacement therapy (CRRT) is used for stable patients only.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the primary goal of thrombolytic therapy in acute ischemic stroke?",
+        "type": "multiple-choice",
+        "options": [
+            "Restore blood flow",
+            "Reduce blood pressure",
+            "Prevent seizures",
+            "Improve cognition"
+        ],
+        "answer": "Restore blood flow"
+    },
+    {
+        "question": "The class of antibiotics most associated with Clostridioides difficile infection is ________.",
+        "type": "fill-in",
+        "answer": "clindamycin"
+    },
+    {
+        "question": "Interprofessional collaboration improves patient outcomes in advanced nursing practice.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which assessment tool is used for delirium in ICU patients?",
+        "type": "multiple-choice",
+        "options": [
+            "CAM-ICU",
+            "MMSE",
+            "GDS",
+            "PHQ-9"
+        ],
+        "answer": "CAM-ICU"
+    },
+    {
+        "question": "The term for abnormal accumulation of fluid in the peritoneal cavity is ________.",
+        "type": "fill-in",
+        "answer": "ascites"
+    },
+    {
+        "question": "Nurse anesthetists can administer anesthesia without physician supervision in some states.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "In advanced wound care, negative pressure wound therapy is indicated for:",
+        "type": "multiple-choice",
+        "options": [
+            "Chronic wounds",
+            "Superficial abrasions",
+            "Dry eschar",
+            "Minor burns"
+        ],
+        "answer": "Chronic wounds"
+    },
+    {
+        "question": "The primary symptom of compartment syndrome is severe ________.",
+        "type": "fill-in",
+        "answer": "pain"
+    },
+    {
+        "question": "Quality improvement projects in nursing must always involve randomized controlled trials.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following is a key component of the ABCDE bundle for ICU liberation?",
+        "type": "multiple-choice",
+        "options": [
+            "Early mobility",
+            "Antibiotic stewardship",
+            "Blood transfusion",
+            "Continuous sedation"
+        ],
+        "answer": "Early mobility"
+    },
+    {
+        "question": "The genetic condition causing progressive muscle weakness is ________ dystrophy.",
+        "type": "fill-in",
+        "answer": "muscular"
+    },
+    {
+        "question": "Advanced nursing roles include research and policy development.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the recommended INR range for patients on warfarin for atrial fibrillation?",
+        "type": "multiple-choice",
+        "options": [
+            "2.0-3.0",
+            "1.5-2.5",
+            "3.0-4.0",
+            "1.0-2.0"
+        ],
+        "answer": "2.0-3.0"
+    },
+    {
+        "question": "The inflammation of the meninges is called ________.",
+        "type": "fill-in",
+        "answer": "meningitis"
+    }
+]

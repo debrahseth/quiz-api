@@ -1,0 +1,338 @@
+[
+    {
+        "question": "Electronic Health Records (EHR) and Electronic Medical Records (EMR) are the same thing.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which federal law in the U.S. protects patient health information?",
+        "type": "multiple-choice",
+        "options": [
+            "HIPAA",
+            "HITECH",
+            "FERPA",
+            "GDPR"
+        ],
+        "answer": "HIPAA"
+    },
+    {
+        "question": "The use of information technology to support healthcare delivery is known as _______.",
+        "type": "fill-in",
+        "answer": "health informatics"
+    },
+    {
+        "question": "Telemedicine allows patients to receive care without physically visiting a healthcare facility.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is an example of a clinical decision support system?",
+        "type": "multiple-choice",
+        "options": [
+            "Microsoft Excel",
+            "Drug interaction checker",
+            "WhatsApp",
+            "Dropbox"
+        ],
+        "answer": "Drug interaction checker"
+    },
+    {
+        "question": "The international standard for medical imaging communication is _______.",
+        "type": "fill-in",
+        "answer": "DICOM"
+    },
+    {
+        "question": "Interoperability in health informatics means systems can exchange and use information effectively.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a coding system used for diagnoses?",
+        "type": "multiple-choice",
+        "options": [
+            "ICD-10",
+            "HL7",
+            "SNOMED CT",
+            "LOINC"
+        ],
+        "answer": "ICD-10"
+    },
+    {
+        "question": "The secure exchange of health information across organizations is called _______.",
+        "type": "fill-in",
+        "answer": "health information exchange"
+    },
+    {
+        "question": "Big data analytics can be used in healthcare to predict patient outcomes.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which technology underlies blockchain in healthcare?",
+        "type": "multiple-choice",
+        "options": [
+            "Distributed ledger",
+            "Cloud computing",
+            "Virtualization",
+            "AI"
+        ],
+        "answer": "Distributed ledger"
+    },
+    {
+        "question": "The standard for healthcare data exchange developed by HL7 is called _______.",
+        "type": "fill-in",
+        "answer": "FHIR"
+    },
+    {
+        "question": "Data mining in health informatics is used to identify hidden patterns in clinical data.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is NOT a benefit of EHRs?",
+        "type": "multiple-choice",
+        "options": [
+            "Improved data sharing",
+            "Reduced medical errors",
+            "Increased data duplication",
+            "Better patient tracking"
+        ],
+        "answer": "Increased data duplication"
+    },
+    {
+        "question": "The process of turning raw data into meaningful health information is known as _______.",
+        "type": "fill-in",
+        "answer": "data processing"
+    },
+    {
+        "question": "Wearable devices can provide real-time patient monitoring.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which type of system is primarily used for hospital billing and scheduling?",
+        "type": "multiple-choice",
+        "options": [
+            "Clinical Decision Support System",
+            "Hospital Information System",
+            "Picture Archiving System",
+            "Pharmacy Management System"
+        ],
+        "answer": "Hospital Information System"
+    },
+    {
+        "question": "The organization responsible for the international classification of diseases is _______.",
+        "type": "fill-in",
+        "answer": "World Health Organization"
+    },
+    {
+        "question": "Health informatics is only concerned with computers and software.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following is a data standard for laboratory results?",
+        "type": "multiple-choice",
+        "options": [
+            "ICD-10",
+            "SNOMED CT",
+            "LOINC",
+            "FHIR"
+        ],
+        "answer": "LOINC"
+    },
+    {
+        "question": "The process of anonymizing patient data is called _______.",
+        "type": "fill-in",
+        "answer": "de-identification"
+    },
+    {
+        "question": "Clinical data warehouses are used to support healthcare research.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following technologies enables remote surgeries?",
+        "type": "multiple-choice",
+        "options": [
+            "Robotics",
+            "Blockchain",
+            "Data mining",
+            "Virtual Reality"
+        ],
+        "answer": "Robotics"
+    },
+    {
+        "question": "The practice of using social media data for health research is known as _______.",
+        "type": "fill-in",
+        "answer": "infodemiology"
+    },
+    {
+        "question": "GDPR is the data protection regulation used in the European Union.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of these is a challenge in health informatics adoption?",
+        "type": "multiple-choice",
+        "options": [
+            "High costs",
+            "Data privacy concerns",
+            "Resistance to change",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "The integration of genomic information with patient records is called _______.",
+        "type": "fill-in",
+        "answer": "personalized medicine"
+    },
+    {
+        "question": "Natural language processing (NLP) can be applied to extract meaning from clinical notes.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is an example of health informatics application in public health?",
+        "type": "multiple-choice",
+        "options": [
+            "Disease surveillance system",
+            "Billing system",
+            "Inventory management",
+            "Payroll system"
+        ],
+        "answer": "Disease surveillance system"
+    },
+    {
+        "question": "The process of integrating multiple data sources into a single system is called _______.",
+        "type": "fill-in",
+        "answer": "data integration"
+    },
+    {
+        "question": "Mobile health (mHealth) includes the use of mobile phones and apps for health services.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a benefit of telehealth?",
+        "type": "multiple-choice",
+        "options": [
+            "Reduced access to care",
+            "Increased wait times",
+            "Improved patient access",
+            "Higher costs"
+        ],
+        "answer": "Improved patient access"
+    },
+    {
+        "question": "The use of AI to predict disease outbreaks is an example of _______.",
+        "type": "fill-in",
+        "answer": "predictive analytics"
+    },
+    {
+        "question": "E-prescribing allows physicians to send prescriptions electronically to pharmacies.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which standard is commonly used for secure messaging between healthcare systems?",
+        "type": "multiple-choice",
+        "options": [
+            "HL7",
+            "DICOM",
+            "ICD-10",
+            "SNOMED"
+        ],
+        "answer": "HL7"
+    },
+    {
+        "question": "The ability of a system to scale and handle increasing data volumes is known as _______.",
+        "type": "fill-in",
+        "answer": "scalability"
+    },
+    {
+        "question": "Data breaches in healthcare often result from weak cybersecurity measures.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following technologies is most useful for population health management?",
+        "type": "multiple-choice",
+        "options": [
+            "Genomics",
+            "Data analytics",
+            "3D printing",
+            "Nanotechnology"
+        ],
+        "answer": "Data analytics"
+    },
+    {
+        "question": "The digital storage of medical images is called _______.",
+        "type": "fill-in",
+        "answer": "PACS"
+    },
+    {
+        "question": "Cloud computing can reduce the cost of health IT infrastructure.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a challenge of cloud computing in healthcare?",
+        "type": "multiple-choice",
+        "options": [
+            "Scalability",
+            "Accessibility",
+            "Data security",
+            "Collaboration"
+        ],
+        "answer": "Data security"
+    },
+    {
+        "question": "The process of cleaning and preparing raw data for analysis is called _______.",
+        "type": "fill-in",
+        "answer": "data preprocessing"
+    },
+    {
+        "question": "Artificial Intelligence can assist in diagnostic imaging interpretation.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which wearable technology measures heart rhythms?",
+        "type": "multiple-choice",
+        "options": [
+            "Smartwatch ECG",
+            "VR headset",
+            "Fitness tracker",
+            "Hearing aid"
+        ],
+        "answer": "Smartwatch ECG"
+    },
+    {
+        "question": "The term for converting paper records into electronic format is _______.",
+        "type": "fill-in",
+        "answer": "digitization"
+    },
+    {
+        "question": "Blockchain in healthcare ensures data integrity and security.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is NOT a feature of health information systems?",
+        "type": "multiple-choice",
+        "options": [
+            "Decision support",
+            "Scheduling",
+            "Payroll management",
+            "Data sharing"
+        ],
+        "answer": "Payroll management"
+    },
+    {
+        "question": "The process of ensuring that only authorized users can access data is called _______.",
+        "type": "fill-in",
+        "answer": "access control"
+    }
+]

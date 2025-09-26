@@ -1,0 +1,422 @@
+[
+    {
+        "question": "The heart has four chambers: two atria and two ventricles.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which organ is primarily responsible for filtering blood and producing urine?",
+        "type": "multiple-choice",
+        "options": [
+            "Kidney",
+            "Liver",
+            "Spleen",
+            "Pancreas"
+        ],
+        "answer": "Kidney"
+    },
+    {
+        "question": "The medical term for high blood pressure is ________.",
+        "type": "fill-in",
+        "answer": "hypertension"
+    },
+    {
+        "question": "Insulin is produced by the beta cells of the pancreas.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the most common type of diabetes mellitus?",
+        "type": "multiple-choice",
+        "options": [
+            "Type 2",
+            "Type 1",
+            "Gestational",
+            "LADA"
+        ],
+        "answer": "Type 2"
+    },
+    {
+        "question": "The inflammation of the appendix is called ________.",
+        "type": "fill-in",
+        "answer": "appendicitis"
+    },
+    {
+        "question": "Antibiotics are effective against viral infections.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which vitamin deficiency causes scurvy?",
+        "type": "multiple-choice",
+        "options": [
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin B12",
+            "Vitamin K"
+        ],
+        "answer": "Vitamin C"
+    },
+    {
+        "question": "The largest bone in the human body is the ________.",
+        "type": "fill-in",
+        "answer": "femur"
+    },
+    {
+        "question": "Hepatitis affects the liver.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the normal range for adult resting heart rate?",
+        "type": "multiple-choice",
+        "options": [
+            "60-100 bpm",
+            "40-60 bpm",
+            "100-120 bpm",
+            "20-40 bpm"
+        ],
+        "answer": "60-100 bpm"
+    },
+    {
+        "question": "The condition characterized by brittle bones is ________.",
+        "type": "fill-in",
+        "answer": "osteoporosis"
+    },
+    {
+        "question": "All bacteria are harmful to humans.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which blood type is known as the universal donor?",
+        "type": "multiple-choice",
+        "options": [
+            "O negative",
+            "AB positive",
+            "A positive",
+            "B negative"
+        ],
+        "answer": "O negative"
+    },
+    {
+        "question": "The study of the skin is called ________.",
+        "type": "fill-in",
+        "answer": "dermatology"
+    },
+    {
+        "question": "Vaccines work by stimulating the immune system to produce antibodies.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the primary function of red blood cells?",
+        "type": "multiple-choice",
+        "options": [
+            "Transport oxygen",
+            "Fight infection",
+            "Clot blood",
+            "Produce hormones"
+        ],
+        "answer": "Transport oxygen"
+    },
+    {
+        "question": "The medical term for a heart attack is myocardial ________.",
+        "type": "fill-in",
+        "answer": "infarction"
+    },
+    {
+        "question": "Cancer is always fatal.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which hormone regulates blood sugar levels?",
+        "type": "multiple-choice",
+        "options": [
+            "Insulin",
+            "Adrenaline",
+            "Thyroxine",
+            "Cortisol"
+        ],
+        "answer": "Insulin"
+    },
+    {
+        "question": "The brain and spinal cord make up the ________ nervous system.",
+        "type": "fill-in",
+        "answer": "central"
+    },
+    {
+        "question": "Handwashing is the most effective way to prevent the spread of infections.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the main cause of chronic obstructive pulmonary disease (COPD)?",
+        "type": "multiple-choice",
+        "options": [
+            "Smoking",
+            "Genetics",
+            "Infection",
+            "Allergies"
+        ],
+        "answer": "Smoking"
+    },
+    {
+        "question": "The tube that carries urine from the bladder to outside the body is the ________.",
+        "type": "fill-in",
+        "answer": "urethra"
+    },
+    {
+        "question": "A sphygmomanometer measures blood pressure.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a symptom of anemia?",
+        "type": "multiple-choice",
+        "options": [
+            "Fatigue",
+            "Hypertension",
+            "Hyperactivity",
+            "Weight gain"
+        ],
+        "answer": "Fatigue"
+    },
+    {
+        "question": "The process of blood clotting is called ________.",
+        "type": "fill-in",
+        "answer": "coagulation"
+    },
+    {
+        "question": "MRI stands for Magnetic Resonance Imaging.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the leading cause of death worldwide?",
+        "type": "multiple-choice",
+        "options": [
+            "Cardiovascular disease",
+            "Cancer",
+            "Infectious diseases",
+            "Accidents"
+        ],
+        "answer": "Cardiovascular disease"
+    },
+    {
+        "question": "The gland that produces melatonin is the ________ gland.",
+        "type": "fill-in",
+        "answer": "pineal"
+    },
+    {
+        "question": "All viruses can be treated with antibiotics.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which organ detoxifies chemicals and metabolizes drugs?",
+        "type": "multiple-choice",
+        "options": [
+            "Liver",
+            "Kidney",
+            "Lung",
+            "Stomach"
+        ],
+        "answer": "Liver"
+    },
+    {
+        "question": "The medical specialty dealing with pregnancy and childbirth is ________.",
+        "type": "fill-in",
+        "answer": "obstetrics"
+    },
+    {
+        "question": "Electrocardiogram (ECG) is used to monitor brain activity.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What is the normal body temperature in Celsius?",
+        "type": "multiple-choice",
+        "options": [
+            "37°C",
+            "35°C",
+            "39°C",
+            "40°C"
+        ],
+        "answer": "37°C"
+    },
+    {
+        "question": "The deficiency of iron leads to ________.",
+        "type": "fill-in",
+        "answer": "anemia"
+    },
+    {
+        "question": "Nurses can administer medications without a doctor's order.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which of the following is a nursing diagnosis?",
+        "type": "multiple-choice",
+        "options": [
+            "Impaired gas exchange",
+            "Pneumonia",
+            "Hypertension",
+            "Diabetes"
+        ],
+        "answer": "Impaired gas exchange"
+    },
+    {
+        "question": "The route of medication administration through the skin is called ________.",
+        "type": "fill-in",
+        "answer": "transdermal"
+    },
+    {
+        "question": "Vital signs include temperature, pulse, respiration, and blood pressure.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the first step in the nursing process?",
+        "type": "multiple-choice",
+        "options": [
+            "Assessment",
+            "Diagnosis",
+            "Planning",
+            "Implementation"
+        ],
+        "answer": "Assessment"
+    },
+    {
+        "question": "The abbreviation IV stands for ________.",
+        "type": "fill-in",
+        "answer": "intravenous"
+    },
+    {
+        "question": "Patient confidentiality is protected by HIPAA in the US.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which position is used for patients with breathing difficulties?",
+        "type": "multiple-choice",
+        "options": [
+            "Fowler's position",
+            "Supine",
+            "Prone",
+            "Sims' position"
+        ],
+        "answer": "Fowler's position"
+    },
+    {
+        "question": "The scale used to measure pain intensity is often the ________ scale.",
+        "type": "fill-in",
+        "answer": "numeric"
+    },
+    {
+        "question": "Sterile technique is used only in operating rooms.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "What does CPR stand for?",
+        "type": "multiple-choice",
+        "options": [
+            "Cardiopulmonary resuscitation",
+            "Cardiac pulmonary recovery",
+            "Chest pressure resuscitation",
+            "Circulatory pressure revival"
+        ],
+        "answer": "Cardiopulmonary resuscitation"
+    },
+    {
+        "question": "The term for difficulty breathing is ________.",
+        "type": "fill-in",
+        "answer": "dyspnea"
+    },
+    {
+        "question": "Nurses are responsible for documenting patient care.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "Which of the following is a common side effect of opioids?",
+        "type": "multiple-choice",
+        "options": [
+            "Constipation",
+            "Diarrhea",
+            "Hypertension",
+            "Hyperactivity"
+        ],
+        "answer": "Constipation"
+    },
+    {
+        "question": "The chamber of the heart that pumps blood to the body is the left ________.",
+        "type": "fill-in",
+        "answer": "ventricle"
+    },
+    {
+        "question": "Asthma is a chronic inflammatory disease of the airways.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the primary treatment for anaphylaxis?",
+        "type": "multiple-choice",
+        "options": [
+            "Epinephrine",
+            "Antibiotics",
+            "Aspirin",
+            "Insulin"
+        ],
+        "answer": "Epinephrine"
+    },
+    {
+        "question": "The virus that causes AIDS is ________.",
+        "type": "fill-in",
+        "answer": "HIV"
+    },
+    {
+        "question": "All strokes are caused by blood clots.",
+        "type": "true-false",
+        "answer": "false"
+    },
+    {
+        "question": "Which imaging technique uses sound waves?",
+        "type": "multiple-choice",
+        "options": [
+            "Ultrasound",
+            "X-ray",
+            "CT scan",
+            "MRI"
+        ],
+        "answer": "Ultrasound"
+    },
+    {
+        "question": "The condition of high blood sugar is called ________.",
+        "type": "fill-in",
+        "answer": "hyperglycemia"
+    },
+    {
+        "question": "Physical therapy is part of rehabilitation nursing.",
+        "type": "true-false",
+        "answer": "true"
+    },
+    {
+        "question": "What is the main goal of palliative care?",
+        "type": "multiple-choice",
+        "options": [
+            "Improve quality of life",
+            "Cure the disease",
+            "Extend life at all costs",
+            "Perform surgery"
+        ],
+        "answer": "Improve quality of life"
+    },
+    {
+        "question": "The abbreviation PO means by ________.",
+        "type": "fill-in",
+        "answer": "mouth"
+    }
+]
