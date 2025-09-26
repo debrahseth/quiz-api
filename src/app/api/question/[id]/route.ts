@@ -4,9 +4,10 @@ import path from "path";
 
 export async function GET(
   request: NextRequest,
-  context: { params: { id: string } }
+  context: { params: Promise<{ id: string }> }
 ) {
-  const { id } = context.params;
+  const params = await context.params;
+  const { id } = params;
 
   try {
     const filePath = path.join(
